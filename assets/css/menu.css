@@ -1,0 +1,79 @@
+/*Menu with rounded Corners*/
+
+#nav ul {
+  margin:8px 0 0 -10px; 
+  padding:0;
+  list-style:none;  
+  text-align:center;
+}
+
+#nav ul li ul{
+  margin:0;
+  }
+
+  #nav ul li {
+    margin:0px 3px 0 3px;
+    float:left; 
+    padding:0 10px 0 10px;            /* width and height of the menu item */
+
+    position:relative;      /* must set it as relative, because .hover class top and left with absolute position will be positioned according to li.  */
+  }
+
+  #nav ul li ul li{
+    margin:0 0 0 5px;
+    padding:0;
+    }
+
+  #nav ul li ul li {
+    height:auto;
+    }
+
+  #nav ul li a {
+    z-index:20;   /* z-index must be higher than .hover class */
+    display:block;  /* display as block and set the height according to the height of the menu to make the whole LI clickable */
+    position:relative;
+    padding:7px 0 0 0;
+    font-weight:normal;
+  }
+
+
+  #nav ul li .hover {
+    background:#642726; /* mouseover image  */
+    position:absolute;  /* must be postion absolute   */
+    width:100%;     /*  width, height, left and top to fill the whole LI item */
+    height:29px;
+    left:0; 
+    top:2px;  
+    z-index:0;    /* display under the Anchor tag */
+    display:none; /* hide it by default */
+    
+  }
+  
+  #nav ul li ul li .hover {
+  background:none;
+  border:none;
+  }
+
+#nav ul li.current_page_item a{
+
+  }
+
+
+#dropmenu, #dropmenu ul {margin:0px 0 0 0; padding:0; list-style-type:none; list-style-position:outside; position:absolute; line-height:1.5em; z-index:300; font-weight:bold;}   
+#dropmenu a {display:block; padding:0.25em 1em;   text-decoration:none; }   
+#dropmenu a:hover { }   
+#dropmenu li {float:left; position:relative;}   
+#dropmenu ul {position:absolute; display:none; width:12em; top:16px; left:-10px;padding:15px 19px 10px 0;font-size:12px;}   
+#dropmenu ul li a {} 
+#dropmenu li ul {width:14.1em;}   
+#dropmenu li ul a {width:12em; height:20px; float:left;  background:none;}   
+#dropmenu li ul li {background:#ffffff;}
+#dropmenu li ul li a {width:12em;float:right; padding:10px 0px 10px 5px;margin:0px 12px 0 10px; text-align:left;width:12em; height:auto;  float:left;  border-bottom:0px solid #e9e6d6;border-top:1px solid #e5e5e5;background:#ffffff;}   
+#dropmenu li ul li a:hover {width:12em;float:right; padding:10px 0px 10px 5px;margin:0px 12px 0 10px; text-align:left;width:12em; height:auto;  float:left;  border-bottom:0px solid #e9e6d6;border-top:1px solid #e5e5e5;background:#ffffff;}   
+
+#dropmenu li ul li.current_page_item { height:auto;width:14.1em;background:#ffffff;; }   
+
+#dropmenu ul ul {top:auto;}   
+#dropmenu li ul ul {left:12em; margin:-15px 0 0 12px;top:auto;}   
+#dropmenu li:hover ul ul, #dropmenu li:hover ul ul ul, #dropmenu li:hover ul ul ul ul {display:none;}   
+#dropmenu li:hover ul, #dropmenu li li:hover ul, #dropmenu li li li:hover ul, #dropmenu li li li li:hover ul {display:block;}   

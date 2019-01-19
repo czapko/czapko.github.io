@@ -1,0 +1,129 @@
+/*
+Edit the font styling in this file (without color --> you find the color in /themename/styles/yourstyle.css)
+Not all font-sizes are here. Please write me an email if you have problems to find something. js@quarterpixel.de
+*/
+
+
+body {font-size:0.8em;font-family:Arial;}
+
+
+/* ======  Navigation ======== */
+
+#nav {}                           /*  <- Navigation seetings  */
+
+/* ====== Subnavigation ======= */
+
+#subnavigation h3 {font-size:1.1em;}            /* <- Subnavigation headline */
+
+/* =========== Toppanel ========= */
+#toppanel { font-size: 100%;}               /* Complete Top panel */
+#panel p{line-height:2.0;}
+
+
+
+/* ====== Header Area ========= */
+
+.frontpage-welcome-text h2 {font-size:2.0em;}       /*  <- Welcome message headline -> */
+.frontpage-welcome-text p {line-height:2.0em;}        /*  <- Welcome message text -> */
+#header-teaser {font-size:1.2em;}             /*  <- Header Teaser -> */
+
+
+/* ==== Navigation Numbers ========= */
+#nav-numbers a { font-size:12px;  }             /* <- JS SLider Navigation Numbers */
+
+
+/* Accordion Caption sizes */
+
+.captioncontainer h3 {font-size:1.3em;font-weight:bold; } /*  <- Caption Headline */
+.captioncontainer p {}                    /*  <- Caption Text */
+
+
+/* ====== BAR under Header Area ======== */
+
+.bar-button a {}                      /*  <- Button */
+.bar-right .bar-news-titel {}               /*  <- News Titel */
+.bar-right #bar-news ul li {}               /*  <- News */
+.bar-right .bar-teaser {}                 /*  <- Teaser */
+
+/* ====== Content Area Frontpage ========= */
+
+.content-area-frontpage h2 {text-transform:uppercase; font-size:1.1em;}               /* <- Content Area Frontpage all headline */
+.content-area-frontpage p{line-height:2.0em;}                           /* <- Content Area Text */
+
+#frontpage-content-welcome-left h2 {text-transform:none; font-size:2.0em;}              /* <- Overwrite default settings for the Content Welcome Message */
+#frontpage-content-teaser {font-size:2.0em;}
+
+/* ======= Content Area, Pages, Blogs, Portfolios Full width ========*/
+
+#mainarea{line-height:2.0em}
+
+#page-headline {font-size:1.5em;}
+.post-content h2{font-size:1.5em; padding: 0 0 20px 0;}
+
+/* ======== Portfolio ============ */
+ul.portfolio-menu li{font-size:0.8em;}            /* <- Multiple Portfolio Sites Menu */
+.portfolio-text-under {font-size:1.5em;}          /* <- Teaser under the portfolio */
+
+/* Portfolio 1 */
+
+ul.portfolio-list li h3 {}          /* Portfolio  Headlines */
+
+/* Portfolio 2 */
+
+ul.portfolio-list2 li h3 {font-size:1.5em;}         /* Portfolio 2 Headlines */
+
+/* Portfolio 3 */
+
+ul.portfolio-list3 li h3 {font-size:1.5em;}         /* Portfolio 3 Headlines */
+
+/* Portfolio 4 */
+
+ul.portfolio-list4 li h3 {font-size:1.5em;}         /* Portfolio 4 Headlines */
+
+/* Portfolio 5 */
+
+ul.portfolio-list5 li h3 {font-size:1.1em;}         /* Portfolio 5 Headlines */
+
+
+/* ============= Blog ================= */
+
+/* Blog 1 */
+.blogpost-blog3 h1 { padding: 0 0 20px 0; }
+.blogpost-blog3  h2 a:link, .blogpost-blog3 h2 a:visited, .blogpost-blog3 h2 a:hover, .blogpost-blog3 h2 a:active, .blogpost-blog3 h2 a:focus {}      /* Headline */
+.blogpost-blog3 .post-content ul.meta li {font-size:0.8em;}                                                 /* comments & Category & Date */
+
+/* Blog 2 */
+.blogpost-blog .post-content h2 {}                /* Blog 2 Headlines */
+.blogpost-blog .post-content ul.meta {font-size:0.8em;}     /* Blog 2 Category & Comments */
+
+/* Single Blog */
+
+.blogpost-blog-single ul.meta li {font-size:0.8em;}       /* Category & Date */
+
+
+
+/* ====== Widgets =========== */
+
+.widget h2 {text-transform:uppercase; font-size:1.1em;font-weight:bold;}                /* <- All Widgets headlines */
+.content-area-frontpage .widget h2 {font-size:1.1em;}                         /* <- only frontpage content widget headlines */
+#bottom-of-site-content-background .widget h2 {}                            /* <- Footer widget headlines */
+#sidebar .widget h3 {text-transform:uppercase;font-size:1.1em;font-weight:bold; letter-spacing:0px;}  /* <- Sidebar Headlines */
+#sidebar .widget p{line-height:2.0em;}
+#wp-calendar caption {font-size:1.2em;}                                 /* <- Calendar Month */
+
+
+
+/* ===== Footer ============ */
+
+#bottom-of-site-content-background {font-size:1.0em;}       /* <- complete footer */
+#bottom-of-site-content-background p {line-height:2.0em;}
+
+
+/* ===== Footer bottom ====== */
+#footer-wrapper{font-size:0.95em}                 /* complete */
+#footermenu {font-size:0.9em;}                    /* Footermenu */
+.footer-text {font-size:0.9em}                    /* Footer Text */
+
+/* ========== Read More Buttons ========= */
+
+.button-clear {font-size:0.7em; text-transform:uppercase;}      /* Readmore buttons */
