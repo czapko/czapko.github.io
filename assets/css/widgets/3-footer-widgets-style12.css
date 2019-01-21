@@ -1,0 +1,12 @@
+/* 3 Columns 
+   1st widget 33% width / 2nd widget 33% width / 3rd widget 33% width */
+
+ .fpf-widget-count-1{float:left;width:293px;margin:0 15px 10px 40px;}
+ .fpf-widget-count-2{float:left;width:293px; margin:0 15px 10px 15px;}
+ .fpf-widget-count-3{float:left;width:293px;margin:0 0 10px 15px;}
+
+/* IE 6 Styles (I hate it...) */
+
+* html .fpf-widget-count-1{float:left;width:293px;margin:0 15px 10px 20px;}
+* html .fpf-widget-count-2{float:left;width:293px; margin:0 15px 10px 15px;}
+* html .fpf-widget-count-3{float:left;width:293px;margin:0 0 10px 15px;}

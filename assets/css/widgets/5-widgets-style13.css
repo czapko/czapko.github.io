@@ -1,0 +1,17 @@
+/* 3 Columns 
+   1st widget 25% width / 2nd widget 25% width / 3rd widget 25% width  / 4th widget 25% width*/
+
+ .fp-widget-count-1{width:600px;margin:0 15px 10px 40px;}
+ .fp-widget-count-2{clear:both;float:left;width:180px;margin:20px 15px 10px 40px;}
+ .fp-widget-count-3{float:left;width:180px;margin:20px 15px 10px 15px; }
+ .fp-widget-count-4{float:left;width:180px;margin:20px 0px 10px 15px;}
+ .fp-widget-count-5{position:absolute;top:30px;right:0;width:290px;margin:0 0 10px 0px;}
+
+
+/* IE 6 Styles (I hate it...) */
+
+* html .fp-widget-count-1{width:600px;margin:0 15px 10px 40px;}
+* html .fp-widget-count-2{width:180px;margin:0 15px 10px 20px;}
+* html .fp-widget-count-3{float:left;width:180px;margin:0 15px 10px 15px;}
+* html .fp-widget-count-4{float:left;width:180px;margin:0 0px 10px 15px;}
+* html .fp-widget-count-5{position:absolute;top:40px;right:0;width:300px;margin:0 0 10px 0px;}

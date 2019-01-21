@@ -6,18 +6,35 @@
     <link href="/assets/css/front.css" media="screen" rel="stylesheet" type="text/css">
     <link href="/assets/css/menu.css" media="screen" rel="stylesheet" type="text/css">
 
-    <link href="/assets/js/menus/fade/jquery.plugin.js" media="screen" rel="text/javascript" type="text/css">
-    <link href="/assets/js/menus/fade/call.inside.jquery.js" media="screen" rel="text/javascript" type="text/css">
-    <link href="/assets/js/menus/fade/call.outside.jquery.js" media="screen" rel="text/javascript" type="text/css">
+    <link href="/assets/css/widgets/5-widgets-style13.css" media="screen" rel="stylesheet" type="text/css">
+    <link href="/assets/css/widgets/3-footer-widgets-style12.css" media="screen" rel="stylesheet" type="text/css">
+    <link href="/assets/css/widgets/3-page-widgets-style12.css" media="screen" rel="stylesheet" type="text/css">
+    <link href="/assets/css/widgets/3-page-widgets-style9.css" media="screen" rel="stylesheet" type="text/css">
+    <link href="/assets/css/widgets/1-blog-widget-style1.css" media="screen" rel="stylesheet" type="text/css">
 
-    <link href="/assets/js/toppanel/call.inside.jquery.js" media="screen" rel="text/javascript" type="text/css">
-    <link href="/assets/js/slider/jquery.plugin.js" media="screen" rel="text/javascript" type="text/css">
-    <link href="/assets/js/accordion/jquery.plugin.js" media="screen" rel="text/javascript" type="text/css">
+    <script src="/assets/js/jquery.js" rel="text/javascript"></script>
+    <script src="/assets/js/jquery.easing.1.3.js" rel="text/javascript"></script>
 
-    
+    <script src="/assets/js/prettybox/jquery.prettyPhoto.js" rel="text/javascript"></script>
+    <script src="/assets/js/cufon/cufon-yui.js" rel="text/javascript"></script>
+    <script src="/assets/js/cufon/fonts/segan.js" rel="text/javascript"></script>
+
+    <script src="/assets/js/menus/fade/jquery.plugin.js" rel="text/javascript"></script>
+    <script src="/assets/js/menus/fade/call.inside.jquery.js" rel="text/javascript"></script>
+    <script src="/assets/js/menus/fade/call.outside.jquery.js" rel="text/javascript"></script>
+
+    <script src="/assets/js/toppanel/call.inside.jquery.js" rel="text/javascript"></script>
+    <script src="/assets/js/slider/jquery.plugin.js" rel="text/javascript"></script>
+    <script src="/assets/js/accordion/jquery.accordion.js" rel="text/javascript"></script>
+
+    <script src="/assets/js/jqfancytransition/jqFancyTransitions.min.js" rel="text/javascript"></script>
   </head>
   <body>
     {% include header.html %}
+
+    {% if page.show_slider %}
+      {% include slider.html %}
+    {% endif %}
 
     <div class="container-fluid">
       {{ content }}

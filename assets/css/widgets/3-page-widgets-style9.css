@@ -1,0 +1,13 @@
+/* 3 Columns 
+  1st widget 100% width - top / 2nd widget 50% width / 3rd widget 50% width */
+
+ .pwa-widget-count-1{width:940px;clear:both;margin:0px 0 0 0;margin:0px 0 40px 40px;}
+ .pwa-widget-count-2{float:left;width:454px;margin:0 15px 10px 40px;}
+ .pwa-widget-count-3{float:left;width:454px;margin:0 0px 10px 15px;}
+
+/* IE 6 Styles (I hate it...) */
+
+* html .pwa-widget-count-1{width:940px;clear:both;margin:0px 0 0 0;margin:0px 0 40px 40px;}
+* html .pwa-widget-count-2{float:left;width:454px;margin:0 15px 0px 20px;}
+* html .pwa-widget-count-3{float:left;width:454px;margin:0 0px 0px 15px;}
+
