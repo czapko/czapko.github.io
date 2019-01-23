@@ -12,7 +12,7 @@ permalink: /p
               <h2 id="page-headline">Katalog produktów</h2>
             </div>
             <span class="contentheadline">
-              <a href="/assets/documents/katalog-produktow.pdf">Pobierz katalog w wersji PDF</a>
+              <a href="/system/documents/attachments/000/000/155/original/katalog-produktow.pdf">Pobierz katalog w wersji PDF</a>
 
             </span>
             <div class="portfolio-text-over">
@@ -31,7 +31,7 @@ permalink: /p
               <li>
 <h3>Elektromagnetyczne</h3>
 <div class="img-wrapper">
-<a href="http://czapko.pl/p/przeplywomierze/elektromagnetyczne">
+<a href="/p/przeplywomierze/elektromagnetyczne">
 Przepływomierze
 <img src="/assets/images/katalog_produktow/przeplywomierze_elektromagnetyczne.jpg">
 </a>
@@ -40,7 +40,7 @@ Przepływomierze
 <li>
 <h3>Turbinowe</h3>
 <div class="img-wrapper">
-<a href="http://czapko.pl/p/przeplywomierze/turbinowe">
+<a href="/p/przeplywomierze/turbinowe">
 Przepływomierze
 <img src="/assets/images/katalog_produktow/przeplywomierze_turbinowe.jpg">
 </a>
@@ -49,7 +49,7 @@ Przepływomierze
 <li>
 <h3>Owalno-zębate</h3>
 <div class="img-wrapper">
-<a href="http://czapko.pl/p/przeplywomierze/owalno-zebate">
+<a href="/p/przeplywomierze/owalno-zebate">
 Przepływomierze
 <img src="/assets/images/katalog_produktow/przeplywomierze_owalno-zebate.jpg">
 </a>
@@ -58,7 +58,7 @@ Przepływomierze
 <li>
 <h3>Nutacyjne-dyskowe</h3>
 <div class="img-wrapper">
-<a href="http://czapko.pl/p/przeplywomierze/nutacyjne-dyskowe">
+<a href="/p/przeplywomierze/nutacyjne-dyskowe">
 Przepływomierze
 <img src="/assets/images/katalog_produktow/przeplywomierze_recordall.jpg">
 </a>
@@ -67,7 +67,7 @@ Przepływomierze
 <li>
 <h3>Ultradźwiękowe</h3>
 <div class="img-wrapper">
-<a href="http://czapko.pl/p/przeplywomierze/ultradzwiekowe">
+<a href="/p/przeplywomierze/ultradzwiekowe">
 Przepływomierze
 <img src="/assets/images/katalog_produktow/przeplywomierze_ultradzwiekowe.jpg">
 </a>
@@ -76,7 +76,7 @@ Przepływomierze
 <li>
 <h3>Wirnikowe</h3>
 <div class="img-wrapper">
-<a href="http://czapko.pl/p/przeplywomierze/wirnikowe">
+<a href="/p/przeplywomierze/wirnikowe">
 Przepływomierze
 <img src="/assets/images/katalog_produktow/przeplywomierze_wirnikowe.jpg">
 </a>
@@ -85,7 +85,7 @@ Przepływomierze
 <li>
 <h3>Wirowe</h3>
 <div class="img-wrapper">
-<a href="http://czapko.pl/p/przeplywomierze/wirowe">
+<a href="/p/przeplywomierze/wirowe">
 Przepływomierze
 <img src="/assets/images/katalog_produktow/przeplywomierze_vortex.jpg">
 </a>
@@ -94,7 +94,7 @@ Przepływomierze
 <li>
 <h3>Małe zawory regulacyjne</h3>
 <div class="img-wrapper">
-<a href="http://czapko.pl/p/zawory-regulacyjne/male-zawory-regulacyjne">
+<a href="/p/zawory-regulacyjne/male-zawory-regulacyjne">
 Zawory regulacyjne
 <img src="/assets/images/katalog_produktow/male_zawory.jpg">
 </a>
@@ -103,7 +103,7 @@ Zawory regulacyjne
 <li>
 <h3>Zawory procesowe</h3>
 <div class="img-wrapper">
-<a href="http://czapko.pl/p/zawory-regulacyjne/zawory-procesowe">
+<a href="/p/zawory-regulacyjne/zawory-procesowe">
 Zawory regulacyjne
 <img src="/assets/images/katalog_produktow/zawory_procesowe.jpg">
 </a>
@@ -112,45 +112,45 @@ Zawory regulacyjne
 <li>
 <h3>Zawory w wykonaniu higienicznym</h3>
 <div class="img-wrapper">
-<a href="http://czapko.pl/p/zawory-regulacyjne/zawory-w-wykonaniu-higienicznym">
+<a href="/p/zawory-regulacyjne/zawory-w-wykonaniu-higienicznym">
 Zawory regulacyjne
-<img src="/assets/images/katalog_produktow/zawory_higieniczne.jpg">
+<img src="/system/photos/attachments/000/000/010/original/zawory_higieniczne.jpg">
 </a>
 </div>
 </li>
 <li>
 <h3>Czujniki przemysłowe</h3>
 <div class="img-wrapper">
-<a href="http://czapko.pl/p/api-industry/czujniki-przemyslowe">
+<a href="/p/api-industry/czujniki-przemyslowe">
 API Industry
-<img src="/assets/images/katalog_produktow/api_industry.jpg">
+<img src="/system/photos/attachments/000/000/011/original/api_industry.jpg">
 </a>
 </div>
 </li>
 <li>
 <h3>O zmiennym przekroju</h3>
 <div class="img-wrapper">
-<a href="http://czapko.pl/p/przeplywomierze/o-zmiennym-przekroju">
+<a href="/p/przeplywomierze/o-zmiennym-przekroju">
 Przepływomierze
-<img src="/assets/images/katalog_produktow/przeplywomierze_o_zmiennym_przekroju.png">
+<img src="/system/photos/attachments/000/000/012/original/przeplywomierze_o_zmiennym_przekroju.png">
 </a>
 </div>
 </li>
 <li>
 <h3>Dla hydrauliki siłowej</h3>
 <div class="img-wrapper">
-<a href="http://czapko.pl/p/przeplywomierze/dla-hydrauliki-silowej">
+<a href="/p/przeplywomierze/dla-hydrauliki-silowej">
 Przepływomierze
-<img src="/assets/images/katalog_produktow/flotech.png">
+<img src="/system/photos/attachments/000/000/013/original/flotech.png">
 </a>
 </div>
 </li>
 <li>
 <h3>Zwężkowe i różnicowo-ciśnieniowe</h3>
 <div class="img-wrapper">
-<a href="http://czapko.pl/p/przeplywomierze/zwezkowe-i-roznicowo-cisnieniowe">
+<a href="/p/przeplywomierze/zwezkowe-i-roznicowo-cisnieniowe">
 Przepływomierze
-<img src="/assets/images/katalog_produktow/csm_venturi_ssl.png">
+<img src="/system/photos/attachments/000/000/014/original/csm_Venturi_SSL.png">
 </a>
 </div>
 </li>
