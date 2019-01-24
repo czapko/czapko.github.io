@@ -96,7 +96,7 @@ Przepływomierze
 <div class="img-wrapper">
 <a href="/p/zawory-regulacyjne/male-zawory-regulacyjne">
 Zawory regulacyjne
-<img src="/assets/images/katalog_produktow/male_zawory.jpg">
+<img src="/assets/images/katalog_produktow/male_zawory_regulacyjne.jpg">
 </a>
 </div>
 </li>
@@ -114,7 +114,7 @@ Zawory regulacyjne
 <div class="img-wrapper">
 <a href="/p/zawory-regulacyjne/zawory-w-wykonaniu-higienicznym">
 Zawory regulacyjne
-<img src="/system/photos/attachments/000/000/010/original/zawory_higieniczne.jpg">
+<img src="/assets/images/katalog_produktow/zawory_higieniczne.jpg">
 </a>
 </div>
 </li>
@@ -123,7 +123,7 @@ Zawory regulacyjne
 <div class="img-wrapper">
 <a href="/p/api-industry/czujniki-przemyslowe">
 API Industry
-<img src="/system/photos/attachments/000/000/011/original/api_industry.jpg">
+<img src="/assets/images/katalog_produktow/api_industry.jpg">
 </a>
 </div>
 </li>
@@ -132,7 +132,7 @@ API Industry
 <div class="img-wrapper">
 <a href="/p/przeplywomierze/o-zmiennym-przekroju">
 Przepływomierze
-<img src="/system/photos/attachments/000/000/012/original/przeplywomierze_o_zmiennym_przekroju.png">
+<img src="/assets/images/katalog_produktow/przeplywomierze_o_zmiennym_przekroju.png">
 </a>
 </div>
 </li>
@@ -141,7 +141,7 @@ Przepływomierze
 <div class="img-wrapper">
 <a href="/p/przeplywomierze/dla-hydrauliki-silowej">
 Przepływomierze
-<img src="/system/photos/attachments/000/000/013/original/flotech.png">
+<img src="/assets/images/katalog_produktow/flotech.png">
 </a>
 </div>
 </li>
@@ -150,7 +150,7 @@ Przepływomierze
 <div class="img-wrapper">
 <a href="/p/przeplywomierze/zwezkowe-i-roznicowo-cisnieniowe">
 Przepływomierze
-<img src="/system/photos/attachments/000/000/014/original/csm_Venturi_SSL.png">
+<img src="/assets/images/katalog_produktow/csm_venturi_ssl.png">
 </a>
 </div>
 </li>
