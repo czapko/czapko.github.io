@@ -1,7 +1,7 @@
 ---
 layout: front
 title: PUHP Zdzisław Czapko
-permalink: /p/zawory-regulacyjne/zawory-w-wykonaniu-higienicznym/
+permalink: /p/zawory-regulacyjne/zawory-w-wykonaniu-higienicznym/zawor-aseptyczny-scv-09/
 ---
 
 <div id="content">
@@ -15,78 +15,29 @@ permalink: /p/zawory-regulacyjne/zawory-w-wykonaniu-higienicznym/
 <a href="/p/zawory-regulacyjne">Zawory regulacyjne</a>
 »
 <a href="/p/zawory-regulacyjne/zawory-w-wykonaniu-higienicznym">Zawory w wykonaniu higienicznym</a>
+»
+<a href="/p/zawory-regulacyjne/zawory-w-wykonaniu-higienicznym/zawor-aseptyczny-scv-09">Zawór aseptyczny SCV-09</a>
 </li>
 </ul>
 
-            <h2>Zawory w wykonaniu higienicznym</h2>
+            <h2>Zawór aseptyczny SCV-09</h2>
             <div class="image-right">
+              <img alt="Scv-09" src="/assets/images/katalog_produktow/zawory-regulacyjne/zawory-w-wykonaniu-higienicznym/SCV-09.jpg">
+
             </div>
             <p>
-              
-            </p>
+              </p><ul><li>DN 1/2”, 3/4”, 1”</li><li>Cvs 3,0 – 11,5</li><li>do PN 18</li><li>do +145 OC</li></ul> <br><br> Seria aseptycznych zaworów SCV-09 to seria spełniająca normy 3-A. Zawory przeznaczone są do regulacji szerokiego spektrum cieczy o małym natężeniu przepływu.
+            <p></p>
             
             <p class="sheet">
-              
+              <a href="/assets/documents/zawory-regulacyjne/zawory-w-wykonaniu-higienicznym/RCV_SCV-09_DB_02_0445_pl.pdf">Karta katalogowa</a>
+
             </p>
-            <br>
-            <ul class="meta">
-<li>
-KATEGORIA:
-Zawory regulacyjne
-</li>
-<li>
-PRODUKTOW:
-3
-</li>
-</ul>
-
-            <h3>Zawór aseptyczny SCV-09</h3>
-<span class="blog-img-wrapper">
-<img alt="Scv-09" src="/assets/images/katalog_produktow/zawory_w_wykonaniu_higienicznym/SCV-09.jpg">
-
-</span>
-<p>
-</p><ul><li>DN 1/2”, 3/4”, 1”</li><li>Cvs 3,0 – 11,5</li><li>do PN 18</li><li>do +145 OC</li></ul> <br><br> Seria aseptycznych zaworów SCV-09 to seria spełniająca normy 3-A. Zawory przeznaczone są ...
-<p></p>
-<p class="separator">
-<a class="more-link" href="/p/zawory-regulacyjne/zawory-w-wykonaniu-higienicznym/zawor-aseptyczny-scv-09">
-<span class="button-clear">ZOBACZ WIĘCEJ</span>
-</a>
-
-</p>
-<h3>Zawór SC 510</h3>
-<span class="blog-img-wrapper">
-<img alt="Sc510" src="/assets/images/katalog_produktow/zawory_w_wykonaniu_higienicznym/SC510.jpg">
-
-</span>
-<p>
-</p><ul><li>DN 1/2” – 2”</li><li>Cvs 0,05 – 4,0</li><li>do PN 20</li><li>od -20OC do +150 OC</li></ul> <br><br> Seria SC 500 jest przeznaczona do stosowania w warunkach higienicznych, aplikacjach f...
-<p></p>
-<p class="separator">
-<a class="more-link" href="/p/zawory-regulacyjne/zawory-w-wykonaniu-higienicznym/zawor-sc-510">
-<span class="button-clear">ZOBACZ WIĘCEJ</span>
-</a>
-
-</p>
-<h3>Zawór SC 500</h3>
-<span class="blog-img-wrapper">
-<img alt="Sc500" src="/assets/images/katalog_produktow/zawory_w_wykonaniu_higienicznym/SC500.jpg">
-
-</span>
-<p>
-</p><ul><li>DN 1” – 1,5”</li><li>Cvs 0,05 – 2,0</li><li>do PN 20</li><li>od -20OC do +150 OC</li></ul> <br><br> Seria SC 500 jest przeznaczona do stosowania w warunkach higienicznych, aplikacjach f...
-<p></p>
-<p class="separator">
-<a class="more-link" href="/p/zawory-regulacyjne/zawory-w-wykonaniu-higienicznym/zawor-sc-500">
-<span class="button-clear">ZOBACZ WIĘCEJ</span>
-</a>
-
-</p>
-
           </div>
         </div>
       </div>
       <div class="widget light-widget sidebar-right" id="sidebar">
+        
         <div id="subnavigation">
 <h3>Przepływomierze</h3>
 <ul class="subcategories">
@@ -120,7 +71,6 @@ PRODUKTOW:
 </ul>
 </div>
 
-        
       </div>
     </div>
   </div>

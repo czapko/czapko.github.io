@@ -43,7 +43,7 @@ PRODUKTOW:
 
             <h3>Koryto spiętrzające </h3>
 <span class="blog-img-wrapper">
-<img alt="Ks" src="/assets/images/katalog_produktow/ultradzwiekowe/KS.jpg">
+<img alt="Ks" src="/assets/images/katalog_produktow/przeplywomierze/ultradzwiekowe/KS.jpg">
 
 </span>
 <p>
@@ -57,7 +57,7 @@ Koryto spiętrzające jest elementem stosowanym w połączeniu z przepływomierz
 </p>
 <h3>DXN</h3>
 <span class="blog-img-wrapper">
-<img alt="Dxn" src="/assets/images/katalog_produktow/ultradzwiekowe/dxn.jpg">
+<img alt="Dxn" src="/assets/images/katalog_produktow/przeplywomierze/ultradzwiekowe/dxn.jpg">
 
 </span>
 <p>
@@ -71,7 +71,7 @@ Przenośny przepływomierz ultradźwiękowy DXN jest modelem hybrydowym zdolnym 
 </p>
 <h3>TFX Ultra<sup>®</sup></h3>
 <span class="blog-img-wrapper">
-<img alt="Tfx-ultra" src="/assets/images/katalog_produktow/ultradzwiekowe/TFX-Ultra.png">
+<img alt="Tfx-ultra" src="/assets/images/katalog_produktow/przeplywomierze/ultradzwiekowe/TFX-Ultra.png">
 
 </span>
 <p>
@@ -85,7 +85,7 @@ Przepływomierz ultradźwiękowy TFX Ultra<sup>®</sup> montowany jest po zewnę
 </p>
 <h3>DFX</h3>
 <span class="blog-img-wrapper">
-<img alt="Dfx_with_transducer_pipe_4cl" src="/assets/images/katalog_produktow/ultradzwiekowe/DFX_with_Transducer_Pipe_4Cl.png">
+<img alt="Dfx_with_transducer_pipe_4cl" src="/assets/images/katalog_produktow/przeplywomierze/ultradzwiekowe/DFX_with_Transducer_Pipe_4Cl.png">
 
 </span>
 <p>
@@ -99,7 +99,7 @@ Przepływomierz DFX działa poprzez przesyłanie fal ultradźwiękowych z czujni
 </p>
 <h3>UFX</h3>
 <span class="blog-img-wrapper">
-<img alt="Dynasonics_ufx_51_4cl" src="/assets/images/katalog_produktow/ultradzwiekowe/Dynasonics_UFX_51_4Cl.png">
+<img alt="Dynasonics_ufx_51_4cl" src="/assets/images/katalog_produktow/przeplywomierze/ultradzwiekowe/Dynasonics_UFX_51_4Cl.png">
 
 </span>
 <p>
@@ -113,7 +113,7 @@ Seria przepływomierzy Dopplera UFX używa zaawansowanej technologii ultradźwi�
 </p>
 <h3>MultySonic 8000</h3>
 <span class="blog-img-wrapper">
-<img alt="Multisonic_8000_0004_1_4cl" src="/assets/images/katalog_produktow/ultradzwiekowe/Multisonic_8000_0004_1_4Cl.png">
+<img alt="Multisonic_8000_0004_1_4cl" src="/assets/images/katalog_produktow/przeplywomierze/ultradzwiekowe/Multisonic_8000_0004_1_4Cl.png">
 
 </span>
 <p>
@@ -127,7 +127,7 @@ Przepływomierz ultradźwiękowy MultySonic 8000 jest przeznaczony do pomiaru pr
 </p>
 <h3>iSonic 3000</h3>
 <span class="blog-img-wrapper">
-<img alt="Isonic3000" src="/assets/images/katalog_produktow/ultradzwiekowe/isonic3000.png">
+<img alt="Isonic3000" src="/assets/images/katalog_produktow/przeplywomierze/ultradzwiekowe/isonic3000.png">
 
 </span>
 <p>

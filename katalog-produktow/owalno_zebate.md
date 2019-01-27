@@ -61,7 +61,7 @@ PRODUKTOW:
 
             <h3>IOG<sup>®</sup> low flow</h3>
 <span class="blog-img-wrapper">
-<img alt="Iog_low_flow" src="/assets/images/katalog_produktow/owalno-zebate/iog_low_flow.jpg">
+<img alt="Iog_low_flow" src="/assets/images/katalog_produktow/przeplywomierze/owalno-zebate/iog_low_flow.jpg">
 
 </span>
 <p>
@@ -75,7 +75,7 @@ Przepływomierz IOG posiada modułową, ekonomiczną konstrukcję będąc jednoc
 </p>
 <h3>IOG<sup>®</sup></h3>
 <span class="blog-img-wrapper">
-<img alt="Iog" src="/assets/images/katalog_produktow/owalno-zebate/IOG.jpg">
+<img alt="Iog" src="/assets/images/katalog_produktow/przeplywomierze/owalno-zebate/IOG.jpg">
 
 </span>
 <p>
@@ -89,7 +89,7 @@ Przemysłowe przepływomierze OG to przepływomierze modularne, ekonomiczne a za
 </p>
 <h3>LM OG</h3>
 <span class="blog-img-wrapper">
-<img alt="Lm_og" src="/assets/images/katalog_produktow/owalno-zebate/LM_OG.jpg">
+<img alt="Lm_og" src="/assets/images/katalog_produktow/przeplywomierze/owalno-zebate/LM_OG.jpg">
 
 </span>
 <p>
@@ -103,7 +103,7 @@ Uniwersalny przepływomierz w zwartej obudowie zawierającej elektroniczny liczn
 </p>
 <h3>LM-OG-A</h3>
 <span class="blog-img-wrapper">
-<img alt="Lm-og-a" src="/assets/images/katalog_produktow/owalno-zebate/LM-OG-A.png">
+<img alt="Lm-og-a" src="/assets/images/katalog_produktow/przeplywomierze/owalno-zebate/LM-OG-A.png">
 
 </span>
 <p>
@@ -117,7 +117,7 @@ Uniwersalny przepływomierz w zwartej obudowie zawierającej elektroniczny liczn
 </p>
 <h3>LM-OG-HF</h3>
 <span class="blog-img-wrapper">
-<img alt="Lmoghf" src="/assets/images/katalog_produktow/owalno-zebate/LMOGHF.jpg">
+<img alt="Lmoghf" src="/assets/images/katalog_produktow/przeplywomierze/owalno-zebate/LMOGHF.jpg">
 
 </span>
 <p>
@@ -131,7 +131,7 @@ Przepływomierze LM-OG-HF są przeznaczone do pomiaru natężenia przepływu do 
 </p>
 <h3>LM-OG-I/LM-OG-I HF</h3>
 <span class="blog-img-wrapper">
-<img alt="Lm-og-i" src="/assets/images/katalog_produktow/owalno-zebate/LM-OG-I.jpg">
+<img alt="Lm-og-i" src="/assets/images/katalog_produktow/przeplywomierze/owalno-zebate/LM-OG-I.jpg">
 
 </span>
 <p>
@@ -145,7 +145,7 @@ Owalno-zębate przepływomierze elektroniczne są szczególnie przeznaczone do p
 </p>
 <h3>LM-OG-I-PVC</h3>
 <span class="blog-img-wrapper">
-<img alt="Lmogipvc" src="/assets/images/katalog_produktow/owalno-zebate/LMOGiPVC.jpg">
+<img alt="Lmogipvc" src="/assets/images/katalog_produktow/przeplywomierze/owalno-zebate/LMOGiPVC.jpg">
 
 </span>
 <p>
@@ -159,7 +159,7 @@ Przepływomierz owalno-zębaty LM-OG-I-PVC jest przeznaczony do pomiaru cieczy o
 </p>
 <h3>LM-OG-TI-PVC</h3>
 <span class="blog-img-wrapper">
-<img alt="Lmogti" src="/assets/images/katalog_produktow/owalno-zebate/LMOGTI.jpg">
+<img alt="Lmogti" src="/assets/images/katalog_produktow/przeplywomierze/owalno-zebate/LMOGTI.jpg">
 
 </span>
 <p>
@@ -173,7 +173,7 @@ Przepływomierz owalno-zębaty LM-OG-TI-PVC posiada kontaktronowe wyjście impul
 </p>
 <h3>LM-OG-TI/LM-OG-TI-HF</h3>
 <span class="blog-img-wrapper">
-<img alt="Lm-og-ti___lm-og-ti-hf" src="/assets/images/katalog_produktow/owalno-zebate/LM-OG-TI___LM-OG-TI-HF.png">
+<img alt="Lm-og-ti___lm-og-ti-hf" src="/assets/images/katalog_produktow/przeplywomierze/owalno-zebate/LM-OG-TI___LM-OG-TI-HF.png">
 
 </span>
 <p>

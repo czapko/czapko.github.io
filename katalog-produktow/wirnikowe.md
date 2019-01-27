@@ -43,7 +43,7 @@ PRODUKTOW:
 
             <h3>220B</h3>
 <span class="blog-img-wrapper">
-<img alt="Imp-220-b" src="/assets/images/katalog_produktow/wirnikowe/IMP-220-B.jpg">
+<img alt="Imp-220-b" src="/assets/images/katalog_produktow/przeplywomierze/wirnikowe/IMP-220-B.jpg">
 
 </span>
 <p>
@@ -57,7 +57,7 @@ Seria czujników 200 to seria czujników wkładanych skonstruowanych z materiał
 </p>
 <h3>220PVCS</h3>
 <span class="blog-img-wrapper">
-<img alt="220_pvs" src="/assets/images/katalog_produktow/wirnikowe/220_PVS.jpg">
+<img alt="220_pvs" src="/assets/images/katalog_produktow/przeplywomierze/wirnikowe/220_PVS.jpg">
 
 </span>
 <p>
@@ -71,7 +71,7 @@ Seria czujników 220 PVCS to seria czujników wkładanych skonstruowanych z mate
 </p>
 <h3>228</h3>
 <span class="blog-img-wrapper">
-<img alt="228_b-2" src="/assets/images/katalog_produktow/wirnikowe/228_B-2.jpg">
+<img alt="228_b-2" src="/assets/images/katalog_produktow/przeplywomierze/wirnikowe/228_B-2.jpg">
 
 </span>
 <p>
@@ -85,7 +85,7 @@ Czujniki przepływu serii 200 cechują się układem sześcioostrzowego wirnika 
 </p>
 <h3>228 PV</h3>
 <span class="blog-img-wrapper">
-<img alt="220p-2" src="/assets/images/katalog_produktow/wirnikowe/220P-2.jpg">
+<img alt="220p-2" src="/assets/images/katalog_produktow/przeplywomierze/wirnikowe/220P-2.jpg">
 
 </span>
 <p>
@@ -98,7 +98,7 @@ Seria czujników 228 PV to seria czujników wkładanych skonstruowanych z materi
 </p>
 <h3>250</h3>
 <span class="blog-img-wrapper">
-<img alt="Imp250b-1" src="/assets/images/katalog_produktow/wirnikowe/IMP250B-1.jpg">
+<img alt="Imp250b-1" src="/assets/images/katalog_produktow/przeplywomierze/wirnikowe/IMP250B-1.jpg">
 
 </span>
 <p>
@@ -112,7 +112,7 @@ Czujniki przepływu serii 250 zamontowane są w trójniku z którego z łatwośc
 </p>
 <h3>4000</h3>
 <span class="blog-img-wrapper">
-<img alt="Imp4000" src="/assets/images/katalog_produktow/wirnikowe/IMP4000.jpg">
+<img alt="Imp4000" src="/assets/images/katalog_produktow/przeplywomierze/wirnikowe/IMP4000.jpg">
 
 </span>
 <p>
@@ -126,7 +126,7 @@ Seria czujników 4000 dostępna jest w średnicach ½”, ¾” i 1” w wykonan
 </p>
 <h3>SDI</h3>
 <span class="blog-img-wrapper">
-<img alt="Sdi200br" src="/assets/images/katalog_produktow/wirnikowe/SDI200BR.jpg">
+<img alt="Sdi200br" src="/assets/images/katalog_produktow/przeplywomierze/wirnikowe/SDI200BR.jpg">
 
 </span>
 <p>
@@ -140,7 +140,7 @@ Seria czujników SDI oferuje niezrównaną możliwość dla pomiaru przepływu w
 </p>
 <h3>SDI Hot-Tap</h3>
 <span class="blog-img-wrapper">
-<img alt="Sdi220ss" src="/assets/images/katalog_produktow/wirnikowe/SDI220SS.jpg">
+<img alt="Sdi220ss" src="/assets/images/katalog_produktow/przeplywomierze/wirnikowe/SDI220SS.jpg">
 
 </span>
 <p>
@@ -154,7 +154,7 @@ Seria czujników SDI oferuje niezrównaną możliwość dla pomiaru przepływu w
 </p>
 <h3>Monitory serii 1500 / 1520 / 1550</h3>
 <span class="blog-img-wrapper">
-<img alt="Di1500" src="/assets/images/katalog_produktow/wirnikowe/DI1500.jpg">
+<img alt="Di1500" src="/assets/images/katalog_produktow/przeplywomierze/wirnikowe/DI1500.jpg">
 
 </span>
 <p>
@@ -168,7 +168,7 @@ Monitory serii 1500 to uniwersalne monitory przepływu z alfanumerycznym wyświe
 </p>
 <h3>Monitory serii 2100</h3>
 <span class="blog-img-wrapper">
-<img alt="Di2100" src="/assets/images/katalog_produktow/wirnikowe/DI2100.jpg">
+<img alt="Di2100" src="/assets/images/katalog_produktow/przeplywomierze/wirnikowe/DI2100.jpg">
 
 </span>
 <p>
@@ -182,7 +182,7 @@ Model 2100 jest cyfrowym monitorem przepływu, który został zaprojektowany do 
 </p>
 <h3>Monitor serii 2200 – Dozownik </h3>
 <span class="blog-img-wrapper">
-<img alt="Di2200" src="/assets/images/katalog_produktow/wirnikowe/DI2200.jpg">
+<img alt="Di2200" src="/assets/images/katalog_produktow/przeplywomierze/wirnikowe/DI2200.jpg">
 
 </span>
 <p>
@@ -196,7 +196,7 @@ Seria 2200 to programowalny sterownik dozowania. <br><br> Elastyczność modelu 
 </p>
 <h3>Monitor serii 2300</h3>
 <span class="blog-img-wrapper">
-<img alt="Di2300" src="/assets/images/katalog_produktow/wirnikowe/DI2300.jpg">
+<img alt="Di2300" src="/assets/images/katalog_produktow/przeplywomierze/wirnikowe/DI2300.jpg">
 
 </span>
 <p>
@@ -210,7 +210,7 @@ Model 2300 to wielofunkcyjny, sterowany mikroprocesorowo, monitor BTU. <br><br> 
 </p>
 <h3>Transmiter 310</h3>
 <span class="blog-img-wrapper">
-<img alt="310" src="/assets/images/katalog_produktow/wirnikowe/310.jpg">
+<img alt="310" src="/assets/images/katalog_produktow/przeplywomierze/wirnikowe/310.jpg">
 
 </span>
 <p>
@@ -224,7 +224,7 @@ Model 310 to zasilany pętlą, programowalny transmiter zdolny do przetwarzania 
 </p>
 <h3>Transmiter 320</h3>
 <span class="blog-img-wrapper">
-<img alt="320" src="/assets/images/katalog_produktow/wirnikowe/320.jpg">
+<img alt="320" src="/assets/images/katalog_produktow/przeplywomierze/wirnikowe/320.jpg">
 
 </span>
 <p>
@@ -238,7 +238,7 @@ Model 320 jest kompaktowym, programowalnym transmiterem zdolnym do przetwarzania
 </p>
 <h3>Transmiter 330</h3>
 <span class="blog-img-wrapper">
-<img alt="330" src="/assets/images/katalog_produktow/wirnikowe/330.jpg">
+<img alt="330" src="/assets/images/katalog_produktow/przeplywomierze/wirnikowe/330.jpg">
 
 </span>
 <p>
@@ -252,7 +252,7 @@ Model 320 jest kompaktowym, programowalnym transmiterem zdolnym do przetwarzania
 </p>
 <h3>Transmiter 340</h3>
 <span class="blog-img-wrapper">
-<img alt="340" src="/assets/images/katalog_produktow/wirnikowe/340.jpg">
+<img alt="340" src="/assets/images/katalog_produktow/przeplywomierze/wirnikowe/340.jpg">
 
 </span>
 <p>
@@ -266,7 +266,7 @@ Model 340 przelicza energię cieplną mierząc przepływ cieczy w zamkniętym ru
 </p>
 <h3>Transmiter 340 LW</h3>
 <span class="blog-img-wrapper">
-<img alt="340lw" src="/assets/images/katalog_produktow/wirnikowe/340LW.jpg">
+<img alt="340lw" src="/assets/images/katalog_produktow/przeplywomierze/wirnikowe/340LW.jpg">
 
 </span>
 <p>
@@ -280,7 +280,7 @@ Seria 340 LW BTU to ekonomiczny, kompaktowy transmiter komunikujący się za pom
 </p>
 <h3>Transmiter 340 N2</h3>
 <span class="blog-img-wrapper">
-<img alt="340n2" src="/assets/images/katalog_produktow/wirnikowe/340N2.jpg">
+<img alt="340n2" src="/assets/images/katalog_produktow/przeplywomierze/wirnikowe/340N2.jpg">
 
 </span>
 <p>

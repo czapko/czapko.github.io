@@ -43,7 +43,7 @@ PRODUKTOW:
 
             <h3>UTS™ - Ultradźwiękowy sygnalizator poziomu</h3>
 <span class="blog-img-wrapper">
-<img alt="Uts" src="/assets/images/katalog_produktow/api_industry/uts.jpg">
+<img alt="Uts" src="/assets/images/katalog_produktow/api-industry/czujniki-przemyslowe/uts.jpg">
 
 </span>
 <p>
@@ -57,7 +57,7 @@ Przeznaczony do ciężkich warunków w zbiornikach i rurociągach, UTS™ dostar
 </p>
 <h3>TLA™  - Alarmowy czujnik poziomu</h3>
 <span class="blog-img-wrapper">
-<img alt="Tla" src="/assets/images/katalog_produktow/api_industry/tla.jpg">
+<img alt="Tla" src="/assets/images/katalog_produktow/api-industry/czujniki-przemyslowe/tla.jpg">
 
 </span>
 <p>
@@ -71,7 +71,7 @@ TLA™ – Tank Level Alarm jest używany do detekcji wysokiego (95%) i bardzo w
 </p>
 <h3>TGD™ - Czujnik poziomu cieczy, temperatury, ciśnienia i gęstości</h3>
 <span class="blog-img-wrapper">
-<img alt="Tgd" src="/assets/images/katalog_produktow/api_industry/tgd.jpg">
+<img alt="Tgd" src="/assets/images/katalog_produktow/api-industry/czujniki-przemyslowe/tgd.jpg">
 
 </span>
 <p>
@@ -85,7 +85,7 @@ TGD™ - Tank Gauging Device jest przeznaczony do ciągłego pomiaru poziomu, te
 </p>
 <h3>TGD-L™ - Pomiar poziomu</h3>
 <span class="blog-img-wrapper">
-<img alt="Tgdl" src="/assets/images/katalog_produktow/api_industry/tgdl.jpg">
+<img alt="Tgdl" src="/assets/images/katalog_produktow/api-industry/czujniki-przemyslowe/tgdl.jpg">
 
 </span>
 <p>
@@ -99,7 +99,7 @@ TGD-L™ jest bezkontaktowym czujnikiem do pomiaru poziomu cieczy, szlamów, osa
 </p>
 <h3>TGD-T™ - Pomiar temperatury</h3>
 <span class="blog-img-wrapper">
-<img alt="Tgdt" src="/assets/images/katalog_produktow/api_industry/tgdt.jpg">
+<img alt="Tgdt" src="/assets/images/katalog_produktow/api-industry/czujniki-przemyslowe/tgdt.jpg">
 
 </span>
 <p>
@@ -113,7 +113,7 @@ TGD-T™ jest wielopunktowym czujnikiem temperatury (do 15 punktów pomiaru) o w
 </p>
 <h3>TGD-S™ - Pomiar gęstości</h3>
 <span class="blog-img-wrapper">
-<img alt="Tgds" src="/assets/images/katalog_produktow/api_industry/tgds.jpg">
+<img alt="Tgds" src="/assets/images/katalog_produktow/api-industry/czujniki-przemyslowe/tgds.jpg">
 
 </span>
 <p>
@@ -127,7 +127,7 @@ TGD-S™ jest urządzeniem zatapialnym przeznaczonym do precyzyjnego i ciągłeg
 </p>
 <h3>UPT™ - Uniwersalny przetwornik ciśnienia</h3>
 <span class="blog-img-wrapper">
-<img alt="Upt" src="/assets/images/katalog_produktow/api_industry/upt.jpg">
+<img alt="Upt" src="/assets/images/katalog_produktow/api-industry/czujniki-przemyslowe/upt.jpg">
 
 </span>
 <p>
@@ -141,7 +141,7 @@ Uniwersalny przetwornik ciśnienia UPT™ jest przeznaczony do pomiaru i wykrywa
 </p>
 <h3>UTT™ - Uniwersalny przetwornik temperatury</h3>
 <span class="blog-img-wrapper">
-<img alt="Upt" src="/assets/images/katalog_produktow/api_industry/upt.jpg">
+<img alt="Upt" src="/assets/images/katalog_produktow/api-industry/czujniki-przemyslowe/upt.jpg">
 
 </span>
 <p>
@@ -155,7 +155,7 @@ Uniwersalny przetwornik temperatury UTT™ jest używany do pomiaru temperatury 
 </p>
 <h3>PI-485™ - Przetwornik HART<sup>®</sup></h3>
 <span class="blog-img-wrapper">
-<img alt="Pi485" src="/assets/images/katalog_produktow/api_industry/pi485.jpg">
+<img alt="Pi485" src="/assets/images/katalog_produktow/api-industry/czujniki-przemyslowe/pi485.jpg">
 
 </span>
 <p>

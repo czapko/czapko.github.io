@@ -44,7 +44,7 @@ PRODUKTOW:
 
             <h3>Racine<sup>®</sup> Vortex</h3>
 <span class="blog-img-wrapper">
-<img alt="Vortex" src="/assets/images/katalog_produktow/wirowe/vortex.jpg">
+<img alt="Vortex" src="/assets/images/katalog_produktow/przeplywomierze/wirowe/vortex.jpg">
 
 </span>
 <p>
@@ -58,7 +58,7 @@ Przepływomierze Racine<sup>®</sup> Vortex wykorzystują technologię ultradźw
 </p>
 <h3>RNG</h3>
 <span class="blog-img-wrapper">
-<img alt="Rac_60_rng" src="/assets/images/katalog_produktow/wirowe/RAC_60_RNG.png">
+<img alt="Rac_60_rng" src="/assets/images/katalog_produktow/przeplywomierze/wirowe/RAC_60_RNG.png">
 
 </span>
 <p>
@@ -72,7 +72,7 @@ Seria RNG to przepływomierze wirowe przeznaczone do wysokiej precyzji pomiarów
 </p>
 <h3>RNL</h3>
 <span class="blog-img-wrapper">
-<img alt="Rac_60_rnl" src="/assets/images/katalog_produktow/wirowe/RAC_60_RNL.png">
+<img alt="Rac_60_rnl" src="/assets/images/katalog_produktow/przeplywomierze/wirowe/RAC_60_RNL.png">
 
 </span>
 <p>
@@ -86,7 +86,7 @@ Seria RNL to przepływomierze wirowe przeznaczone do pomiaru przepływu cieczy. 
 </p>
 <h3>RNS</h3>
 <span class="blog-img-wrapper">
-<img alt="Racine_vortex_rns" src="/assets/images/katalog_produktow/wirowe/Racine_Vortex_RNS.png">
+<img alt="Racine_vortex_rns" src="/assets/images/katalog_produktow/przeplywomierze/wirowe/Racine_Vortex_RNS.png">
 
 </span>
 <p>
@@ -100,7 +100,7 @@ Seria RNS to przepływomierze wirowe przeznaczone do pomiaru przepływu nasycone
 </p>
 <h3>RWS</h3>
 <span class="blog-img-wrapper">
-<img alt="Racine_vortex_rws" src="/assets/images/katalog_produktow/wirowe/Racine_Vortex_RWS.png">
+<img alt="Racine_vortex_rws" src="/assets/images/katalog_produktow/przeplywomierze/wirowe/Racine_Vortex_RWS.png">
 
 </span>
 <p>
@@ -114,7 +114,7 @@ Seria RWS to przepływomierze wirowe liniowe przeznaczone do pomiaru przepływu 
 </p>
 <h3>RVL</h3>
 <span class="blog-img-wrapper">
-<img alt="Racine_61" src="/assets/images/katalog_produktow/wirowe/Racine_61.png">
+<img alt="Racine_61" src="/assets/images/katalog_produktow/przeplywomierze/wirowe/Racine_61.png">
 
 </span>
 <p>
@@ -128,7 +128,7 @@ Seria RVL to przepływomierze wirowe liniowe przeznaczone do pomiarów przepływ
 </p>
 <h3>RWG i RWBG</h3>
 <span class="blog-img-wrapper">
-<img alt="Racine_vortex_rws" src="/assets/images/katalog_produktow/wirowe/Racine_Vortex_RWS.png">
+<img alt="Racine_vortex_rws" src="/assets/images/katalog_produktow/przeplywomierze/wirowe/Racine_Vortex_RWS.png">
 
 </span>
 <p>

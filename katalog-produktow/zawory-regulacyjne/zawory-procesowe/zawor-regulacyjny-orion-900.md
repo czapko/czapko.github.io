@@ -1,7 +1,7 @@
 ---
 layout: front
 title: PUHP Zdzisław Czapko
-permalink: /p/zawory-regulacyjne/zawory-procesowe/
+permalink: /p/zawory-regulacyjne/zawory-procesowe/zawor-regulacyjny-orion-900/
 ---
 
 <div id="content">
@@ -15,92 +15,29 @@ permalink: /p/zawory-regulacyjne/zawory-procesowe/
 <a href="/p/zawory-regulacyjne">Zawory regulacyjne</a>
 »
 <a href="/p/zawory-regulacyjne/zawory-procesowe">Zawory procesowe</a>
+»
+<a href="/p/zawory-regulacyjne/zawory-procesowe/zawor-regulacyjny-orion-900">Zawór regulacyjny ORION 900</a>
 </li>
 </ul>
 
-            <h2>Zawory procesowe</h2>
+            <h2>Zawór regulacyjny ORION 900</h2>
             <div class="image-right">
+              <img alt="Or900" src="/assets/images/katalog_produktow/zawory-regulacyjne/zawory-procesowe/OR900.jpg">
+
             </div>
             <p>
-              
-            </p>
+              </p><ul><li>DN 1” – 2”</li><li>Cvs 0,02 – 25</li><li>do PN 50</li><li>od -70OC do +530 OC</li></ul> <br><br> Seria zaworów specjalnie przeznaczona do stosowania do ciężkich warunków w procesach przemysłowych. Zawory do regulacji przepływu cieczy, par i gazów w aplikacjach przemysłowych gdzie dokładność i jakość oraz małe wymiary są ważne. <br><br> Zawór posiada mocną i odporną na korozję konstrukcję stosowaną w innych, droższych, konstrukcjach. Kompaktowy, w całości stalowy, wysokiej jakości aktuator zaprojektowany jest aby zapewnić łatwą obsługę oraz bezawaryjną pracę przez wiele lat.
+            <p></p>
             
             <p class="sheet">
-              
+              <a href="/assets/documents/zawory-regulacyjne/zawory-procesowe/RCV_OR900_DB_02_0805_pl.pdf">Karta katalogowa</a>
+
             </p>
-            <br>
-            <ul class="meta">
-<li>
-KATEGORIA:
-Zawory regulacyjne
-</li>
-<li>
-PRODUKTOW:
-4
-</li>
-</ul>
-
-            <h3>Zawór regulacyjny ORION 800</h3>
-<span class="blog-img-wrapper">
-<img alt="Or800" src="/assets/images/katalog_produktow/zawory_procesowe/OR800.jpg">
-
-</span>
-<p>
-</p><ul><li>DN 3/4” – 2”</li><li>Cvs 8 – 54</li><li>do PN 20</li><li>od -30OC do +200 OC</li></ul> <br><br> Seria zaworów specjalnie przeznaczona do stosowania do ciężkich warunków w procesach prze...
-<p></p>
-<p class="separator">
-<a class="more-link" href="/p/zawory-regulacyjne/zawory-procesowe/zawor-regulacyjny-orion-800">
-<span class="button-clear">ZOBACZ WIĘCEJ</span>
-</a>
-
-</p>
-<h3>Zawór regulacyjny ORION 900</h3>
-<span class="blog-img-wrapper">
-<img alt="Or900" src="/assets/images/katalog_produktow/zawory_procesowe/OR900.jpg">
-
-</span>
-<p>
-</p><ul><li>DN 1” – 2”</li><li>Cvs 0,02 – 25</li><li>do PN 50</li><li>od -70OC do +530 OC</li></ul> <br><br> Seria zaworów specjalnie przeznaczona do stosowania do ciężkich warunków w procesach prz...
-<p></p>
-<p class="separator">
-<a class="more-link" href="/p/zawory-regulacyjne/zawory-procesowe/zawor-regulacyjny-orion-900">
-<span class="button-clear">ZOBACZ WIĘCEJ</span>
-</a>
-
-</p>
-<h3>Zawór regulacyjny ORION 910</h3>
-<span class="blog-img-wrapper">
-<img alt="Or910" src="/assets/images/katalog_produktow/zawory_procesowe/OR910.jpg">
-
-</span>
-<p>
-</p><ul><li>DN 1” – 2”</li><li>Cvs 0,02 – 25</li><li>do PN 50</li><li>od -70OC do +530 OC</li></ul> <br><br> Seria zaworów specjalnie przeznaczona do stosowania do ciężkich warunków w procesach prz...
-<p></p>
-<p class="separator">
-<a class="more-link" href="/p/zawory-regulacyjne/zawory-procesowe/zawor-regulacyjny-orion-910">
-<span class="button-clear">ZOBACZ WIĘCEJ</span>
-</a>
-
-</p>
-<h3>Zawór kriogeniczny ORION 960</h3>
-<span class="blog-img-wrapper">
-<img alt="Or960" src="/assets/images/katalog_produktow/zawory_procesowe/OR960.jpg">
-
-</span>
-<p>
-</p><ul><li>DN 1” – 2”</li><li>Cvs 0,02 – 25</li><li>do PN 50</li><li>od -270OC do +530 OC</li></ul> <br><br> Seria zaworów specjalnie przeznaczona do stosowania do ciężkich warunków w procesach pr...
-<p></p>
-<p class="separator">
-<a class="more-link" href="/p/zawory-regulacyjne/zawory-procesowe/zawor-kriogeniczny-orion-960">
-<span class="button-clear">ZOBACZ WIĘCEJ</span>
-</a>
-
-</p>
-
           </div>
         </div>
       </div>
       <div class="widget light-widget sidebar-right" id="sidebar">
+        
         <div id="subnavigation">
 <h3>Przepływomierze</h3>
 <ul class="subcategories">
@@ -135,7 +72,6 @@ PRODUKTOW:
 </ul>
 </div>
 
-        
       </div>
     </div>
   </div>

@@ -42,7 +42,7 @@ PRODUKTOW:
 
             <h3>Aktuator elektryczny AC-HH 500</h3>
 <span class="blog-img-wrapper">
-<img alt="Hh50" src="/assets/images/katalog_produktow/male_zawory_regulacyjne/HH50.jpg">
+<img alt="Hh50" src="/assets/images/katalog_produktow/zawory-regulacyjne/male-zawory-regulacyjne/HH50.jpg">
 
 </span>
 <p>
@@ -56,7 +56,7 @@ PRODUKTOW:
 </p>
 <h3>Aktuator pneumatyczny ATC </h3>
 <span class="blog-img-wrapper">
-<img alt="Atc" src="/assets/images/katalog_produktow/male_zawory_regulacyjne/ATC.jpg">
+<img alt="Atc" src="/assets/images/katalog_produktow/zawory-regulacyjne/male-zawory-regulacyjne/ATC.jpg">
 
 </span>
 <p>
@@ -70,7 +70,7 @@ Pod ciśnieniem zamknięty – ATC (Air To Close) <br><br> Aktuatory pneumatyczn
 </p>
 <h3>Aktuator pneumatyczny ATO</h3>
 <span class="blog-img-wrapper">
-<img alt="Ato" src="/assets/images/katalog_produktow/male_zawory_regulacyjne/ATO.jpg">
+<img alt="Ato" src="/assets/images/katalog_produktow/zawory-regulacyjne/male-zawory-regulacyjne/ATO.jpg">
 
 </span>
 <p>
@@ -84,7 +84,7 @@ Pod ciśnieniem otwarty – ATO (Air To Open)  <br><br> Aktuatory pneumatyczne s
 </p>
 <h3>Aktuator pneumatyczny TLDA ATO</h3>
 <span class="blog-img-wrapper">
-<img alt="Blra" src="/assets/images/katalog_produktow/male_zawory_regulacyjne/BLRA.jpg">
+<img alt="Blra" src="/assets/images/katalog_produktow/zawory-regulacyjne/male-zawory-regulacyjne/BLRA.jpg">
 
 </span>
 <p>
@@ -98,7 +98,7 @@ Aktuator z pozycjonerem. Aktuator AC-CP posiada zintegrowany pozycjoner pneumaty
 </p>
 <h3>Aktuator pneumatyczny BLRA ATO </h3>
 <span class="blog-img-wrapper">
-<img alt="Blra_ato" src="/assets/images/katalog_produktow/male_zawory_regulacyjne/BLRA_ATO.jpg">
+<img alt="Blra_ato" src="/assets/images/katalog_produktow/zawory-regulacyjne/male-zawory-regulacyjne/BLRA_ATO.jpg">
 
 </span>
 <p>
@@ -112,7 +112,7 @@ Aktuator z pozycjonerem. Aktuator AC-OP posiada zintegrowany pozycjoner pneumaty
 </p>
 <h3>Pozycjoner 3730</h3>
 <span class="blog-img-wrapper">
-<img alt="3730" src="/assets/images/katalog_produktow/male_zawory_regulacyjne/3730.jpg">
+<img alt="3730" src="/assets/images/katalog_produktow/zawory-regulacyjne/male-zawory-regulacyjne/3730.jpg">
 
 </span>
 <p>
@@ -126,7 +126,7 @@ Analogowy pozycjoner firmy Samson, montowany z boku.
 </p>
 <h3>Pozycjoner 8048</h3>
 <span class="blog-img-wrapper">
-<img alt="8048" src="/assets/images/katalog_produktow/male_zawory_regulacyjne/8048.jpg">
+<img alt="8048" src="/assets/images/katalog_produktow/zawory-regulacyjne/male-zawory-regulacyjne/8048.jpg">
 
 </span>
 <p>
@@ -140,7 +140,7 @@ Cyfrowy kompaktowy pozycjoner dla pneumatycznych zaworów regulacyjnych z liniow
 </p>
 <h3>Pozycjoner BLRA/TLDA</h3>
 <span class="blog-img-wrapper">
-<img alt="Blra" src="/assets/images/katalog_produktow/male_zawory_regulacyjne/BLRA.jpg">
+<img alt="Blra" src="/assets/images/katalog_produktow/zawory-regulacyjne/male-zawory-regulacyjne/BLRA.jpg">
 
 </span>
 <p>
@@ -154,7 +154,7 @@ Pneumatyczny pozycjoner Badger Meter ze zintegrowanym aktuatorem. <br><br> Pozyc
 </p>
 <h3>Pozycjoner SIPART PS 2</h3>
 <span class="blog-img-wrapper">
-<img alt="Sipart" src="/assets/images/katalog_produktow/male_zawory_regulacyjne/SiPart.jpg">
+<img alt="Sipart" src="/assets/images/katalog_produktow/zawory-regulacyjne/male-zawory-regulacyjne/SiPart.jpg">
 
 </span>
 <p>
@@ -168,7 +168,7 @@ Cyfrowy pozycjoner firmy Siemens, montowany z boku.
 </p>
 <h3>Pozycjoner SRI 986</h3>
 <span class="blog-img-wrapper">
-<img alt="Sri_986" src="/assets/images/katalog_produktow/male_zawory_regulacyjne/SRI_986.jpg">
+<img alt="Sri_986" src="/assets/images/katalog_produktow/zawory-regulacyjne/male-zawory-regulacyjne/SRI_986.jpg">
 
 </span>
 <p>
@@ -182,7 +182,7 @@ Elektropneumatyczny pozycjoner analogowy o wzmocnionej konstrukcji.
 </p>
 <h3>Pozycjoner TZID-C</h3>
 <span class="blog-img-wrapper">
-<img alt="Tzid" src="/assets/images/katalog_produktow/male_zawory_regulacyjne/TZID.jpg">
+<img alt="Tzid" src="/assets/images/katalog_produktow/zawory-regulacyjne/male-zawory-regulacyjne/TZID.jpg">
 
 </span>
 <p>
@@ -196,7 +196,7 @@ Cyfrowy pozycjoner firmy ABB, montowany z boku.
 </p>
 <h3>Trzpienie (iglice)</h3>
 <span class="blog-img-wrapper">
-<img alt="Trimm" src="/assets/images/katalog_produktow/male_zawory_regulacyjne/Trimm.jpg">
+<img alt="Trimm" src="/assets/images/katalog_produktow/zawory-regulacyjne/male-zawory-regulacyjne/Trimm.jpg">
 
 </span>
 <p>
@@ -210,7 +210,7 @@ W naszej ofercie znajduje się 38 różnych trzpieni (iglic) pokrywających zakr
 </p>
 <h3>Zawór regulacyjny RC 200</h3>
 <span class="blog-img-wrapper">
-<img alt="Rc210" src="/assets/images/katalog_produktow/male_zawory_regulacyjne/RC210.jpg">
+<img alt="Rc210" src="/assets/images/katalog_produktow/zawory-regulacyjne/male-zawory-regulacyjne/RC210.jpg">
 
 </span>
 <p>
@@ -224,7 +224,7 @@ DN 1/4” – 1” Cvs 0,0000018 – 6,0 do PN 340 od -70OC do +530 OC Seria RC 
 </p>
 <h3>Zawór regulacyjny RC 210</h3>
 <span class="blog-img-wrapper">
-<img alt="Rc220" src="/assets/images/katalog_produktow/male_zawory_regulacyjne/RC220.jpg">
+<img alt="Rc220" src="/assets/images/katalog_produktow/zawory-regulacyjne/male-zawory-regulacyjne/RC220.jpg">
 
 </span>
 <p>
@@ -238,7 +238,7 @@ DN 1/4” – 1” Cvs 0,0000018 – 6,0 do PN 340 od -70OC do +530 OC Seria RC 
 </p>
 <h3>Zawór kątowy RC 220</h3>
 <span class="blog-img-wrapper">
-<img alt="Rc230" src="/assets/images/katalog_produktow/male_zawory_regulacyjne/RC230.jpg">
+<img alt="Rc230" src="/assets/images/katalog_produktow/zawory-regulacyjne/male-zawory-regulacyjne/RC230.jpg">
 
 </span>
 <p>
@@ -252,7 +252,7 @@ DN 1/4” – 1” Cvs 0,0000018 – 6,0 do PN 340 od -70OC do +530 OC Seria RC 
 </p>
 <h3>Zawór 3-drogowy RC 230</h3>
 <span class="blog-img-wrapper">
-<img alt="Rc250" src="/assets/images/katalog_produktow/male_zawory_regulacyjne/RC250.jpg">
+<img alt="Rc250" src="/assets/images/katalog_produktow/zawory-regulacyjne/male-zawory-regulacyjne/RC250.jpg">
 
 </span>
 <p>
@@ -266,7 +266,7 @@ DN 1/4” – 1” Cvs 0,0000018 – 6,0 do PN 340 od -70OC do +530 OC Seria RC 
 </p>
 <h3>Zawór regulacyjny RC 250</h3>
 <span class="blog-img-wrapper">
-<img alt="Rc260" src="/assets/images/katalog_produktow/male_zawory_regulacyjne/RC260.jpg">
+<img alt="Rc260" src="/assets/images/katalog_produktow/zawory-regulacyjne/male-zawory-regulacyjne/RC260.jpg">
 
 </span>
 <p>
@@ -280,7 +280,7 @@ DN 1/4” – 1” Cvs 0,0000018 – 6,0 do PN 340 od -70OC do +530 OC Seria RC 
 </p>
 <h3>Zawór regulacyjny lub kątowy RC 240</h3>
 <span class="blog-img-wrapper">
-<img alt="Rc240" src="/assets/images/katalog_produktow/male_zawory_regulacyjne/RC240.jpg">
+<img alt="Rc240" src="/assets/images/katalog_produktow/zawory-regulacyjne/male-zawory-regulacyjne/RC240.jpg">
 
 </span>
 <p>

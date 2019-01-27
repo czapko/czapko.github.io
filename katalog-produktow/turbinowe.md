@@ -43,7 +43,7 @@ PRODUKTOW:
 
             <h3>Cox</h3>
 <span class="blog-img-wrapper">
-<img alt="Cox" src="/assets/images/katalog_produktow/turbinowe/Cox.jpg">
+<img alt="Cox" src="/assets/images/katalog_produktow/przeplywomierze/turbinowe/Cox.jpg">
 
 </span>
 <p>
@@ -57,7 +57,7 @@ Przepływomierze turbinowe Cox dzięki nieporównywalnej powtarzalności i linio
 </p>
 <h3>Turbo Meter</h3>
 <span class="blog-img-wrapper">
-<img alt="Turbofamily" src="/assets/images/katalog_produktow/turbinowe/TurboFamily.jpg">
+<img alt="Turbofamily" src="/assets/images/katalog_produktow/przeplywomierze/turbinowe/TurboFamily.jpg">
 
 </span>
 <p>
@@ -71,7 +71,7 @@ Turbo Meter są używane w szerokim zakresie aplikacji włączając wodę, oleje
 </p>
 <h3>Blancett<sup>®</sup> 1100</h3>
 <span class="blog-img-wrapper">
-<img alt="Blancett1100-new1inch_4cl" src="/assets/images/katalog_produktow/turbinowe/Blancett1100-New1Inch_4Cl.png">
+<img alt="Blancett1100-new1inch_4cl" src="/assets/images/katalog_produktow/przeplywomierze/turbinowe/Blancett1100-New1Inch_4Cl.png">
 
 </span>
 <p>
@@ -85,7 +85,7 @@ Przepływomierze turbinowe serii 1100 przeznaczone są do pracy w ciężkich war
 </p>
 <h3>Blancett<sup>®</sup> QuickSert<sup>®</sup></h3>
 <span class="blog-img-wrapper">
-<img alt="Quiksert_4cl" src="/assets/images/katalog_produktow/turbinowe/Quiksert_4Cl.png">
+<img alt="Quiksert_4cl" src="/assets/images/katalog_produktow/przeplywomierze/turbinowe/Quiksert_4Cl.png">
 
 </span>
 <p>
@@ -99,7 +99,7 @@ Przepływomierze turbinowe QuickSert<sup>®</sup> to przepływomierze liniowe pr
 </p>
 <h3>Blancett<sup>®</sup> Gas QuickSert<sup>®</sup></h3>
 <span class="blog-img-wrapper">
-<img alt="Gas_quicksert" src="/assets/images/katalog_produktow/turbinowe/Gas_QuickSert.png">
+<img alt="Gas_quicksert" src="/assets/images/katalog_produktow/przeplywomierze/turbinowe/Gas_QuickSert.png">
 
 </span>
 <p>
@@ -113,7 +113,7 @@ W przypadku potrzeby pomiaru przepływu gazu przepływomierze serii Gas QuickSer
 </p>
 <h3>Blancett<sup>®</sup> FloClean™</h3>
 <span class="blog-img-wrapper">
-<img alt="Blancett_flowclean_b16c_17_4cl" src="/assets/images/katalog_produktow/turbinowe/Blancett_FlowClean_B16C_17_4Cl.png">
+<img alt="Blancett_flowclean_b16c_17_4cl" src="/assets/images/katalog_produktow/przeplywomierze/turbinowe/Blancett_FlowClean_B16C_17_4Cl.png">
 
 </span>
 <p>
@@ -127,7 +127,7 @@ Seria przepływomierzy turbinowych FloClean™ jest przeznaczona do aplikacji sp
 </p>
 <h3>Blancett<sup>®</sup> Flow Monitor B2800</h3>
 <span class="blog-img-wrapper">
-<img alt="B2800" src="/assets/images/katalog_produktow/turbinowe/B2800.png">
+<img alt="B2800" src="/assets/images/katalog_produktow/przeplywomierze/turbinowe/B2800.png">
 
 </span>
 <p>
@@ -141,7 +141,7 @@ B2800 to zaawansowany technologicznie monitor przepływu a jednocześnie elastyc
 </p>
 <h3>Blancett<sup>®</sup> Flow Monitor B3000</h3>
 <span class="blog-img-wrapper">
-<img alt="B3000" src="/assets/images/katalog_produktow/turbinowe/B3000.png">
+<img alt="B3000" src="/assets/images/katalog_produktow/przeplywomierze/turbinowe/B3000.png">
 
 </span>
 <p>
@@ -155,7 +155,7 @@ Nowa seria monitorów B3000 to elastyczne, łatwe w użyciu liczniki elektronicz
 </p>
 <h3>Blancett<sup>®</sup> Active Sensor</h3>
 <span class="blog-img-wrapper">
-<img alt="Blancett_active_sensor" src="/assets/images/katalog_produktow/turbinowe/Blancett_Active_Sensor.png">
+<img alt="Blancett_active_sensor" src="/assets/images/katalog_produktow/przeplywomierze/turbinowe/Blancett_Active_Sensor.png">
 
 </span>
 <p>
@@ -169,7 +169,7 @@ Active Sensor to najnowocześniejsze technologicznie cyfrowe urządzenie konwert
 </p>
 <h3>Blancett<sup>®</sup> Inteligent Converter</h3>
 <span class="blog-img-wrapper">
-<img alt="Blancett_inteligent_converter" src="/assets/images/katalog_produktow/turbinowe/Blancett_Inteligent_Converter.png">
+<img alt="Blancett_inteligent_converter" src="/assets/images/katalog_produktow/przeplywomierze/turbinowe/Blancett_Inteligent_Converter.png">
 
 </span>
 <p>
@@ -183,7 +183,7 @@ Inteligent Converter to najnowocześniejsze technologicznie cyfrowe urządzenie 
 </p>
 <h3>Blancett<sup>®</sup> K-factor scaler</h3>
 <span class="blog-img-wrapper">
-<img alt="K-factor_scaler" src="/assets/images/katalog_produktow/turbinowe/K-factor_scaler.png">
+<img alt="K-factor_scaler" src="/assets/images/katalog_produktow/przeplywomierze/turbinowe/K-factor_scaler.png">
 
 </span>
 <p>
@@ -197,7 +197,7 @@ Blancett<sup>®</sup> K-factor Scaler to nastawny dzielnik częstotliwości, kt�
 </p>
 <h3>VISION 1000</h3>
 <span class="blog-img-wrapper">
-<img alt="Vision1000_mg_0590a_4cl" src="/assets/images/katalog_produktow/turbinowe/Vision1000_MG_0590A_4Cl.jpg">
+<img alt="Vision1000_mg_0590a_4cl" src="/assets/images/katalog_produktow/przeplywomierze/turbinowe/Vision1000_MG_0590A_4Cl.jpg">
 
 </span>
 <p>
@@ -211,7 +211,7 @@ Stosowane są do nieagresywnych cieczy o&nbsp;niskiej lepkości i do małych prz
 </p>
 <h3>VISION 2006 2008</h3>
 <span class="blog-img-wrapper">
-<img alt="Vision1000" src="/assets/images/katalog_produktow/turbinowe/Vision1000.jpg">
+<img alt="Vision1000" src="/assets/images/katalog_produktow/przeplywomierze/turbinowe/Vision1000.jpg">
 
 </span>
 <p>
@@ -225,7 +225,7 @@ Stosowane są do nieagresywnych cieczy o&nbsp;niskiej lepkości i do małych prz
 </p>
 <h3>Seria LoFlo</h3>
 <span class="blog-img-wrapper">
-<img alt="Tur_loflo" src="/assets/images/katalog_produktow/turbinowe/TUR_LoFlo.jpg">
+<img alt="Tur_loflo" src="/assets/images/katalog_produktow/przeplywomierze/turbinowe/TUR_LoFlo.jpg">
 
 </span>
 <p>

@@ -42,7 +42,7 @@ PRODUKTOW:
 
             <h3>Cyfrowy tester hydrauliczny PFM6</h3>
 <span class="blog-img-wrapper">
-<img alt="Hd_pmf6_4c" src="/assets/images/katalog_produktow/dla_hydrauliki_silowej/HD_PMF6_4C.png">
+<img alt="Hd_pmf6_4c" src="/assets/images/katalog_produktow/przeplywomierze/dla-hydrauliki-silowej/HD_PMF6_4C.png">
 
 </span>
 <p>
@@ -56,7 +56,7 @@ Seria testerów PFM6 to kompaktowe, lekkie, przenośne urządzenia do szybkiej d
 </p>
 <h3>Cyfrowy tester hydrauliczny PFM6 BD</h3>
 <span class="blog-img-wrapper">
-<img alt="Hd_pmf6bd_4c" src="/assets/images/katalog_produktow/dla_hydrauliki_silowej/HD_PMF6BD_4C.png">
+<img alt="Hd_pmf6bd_4c" src="/assets/images/katalog_produktow/przeplywomierze/dla-hydrauliki-silowej/HD_PMF6BD_4C.png">
 
 </span>
 <p>
@@ -70,7 +70,7 @@ Seria testerów PFM6 to kompaktowe, lekkie, przenośne urządzenia do szybkiej d
 </p>
 <h3>Cyfrowy tester hydrauliczny PFM8</h3>
 <span class="blog-img-wrapper">
-<img alt="Hd_ft_pmf8_4c" src="/assets/images/katalog_produktow/dla_hydrauliki_silowej/HD_FT_PMF8_4C.png">
+<img alt="Hd_ft_pmf8_4c" src="/assets/images/katalog_produktow/przeplywomierze/dla-hydrauliki-silowej/HD_FT_PMF8_4C.png">
 
 </span>
 <p>
@@ -84,7 +84,7 @@ Seria testerów PFM8 to kompaktowe, lekkie, przenośne urządzenia do szybkiej d
 </p>
 <h3>Cyfrowy tester hydrauliczny Flo-Check® USB</h3>
 <span class="blog-img-wrapper">
-<img alt="Hd_flo-check_4c" src="/assets/images/katalog_produktow/dla_hydrauliki_silowej/HD_Flo-Check_4C.png">
+<img alt="Hd_flo-check_4c" src="/assets/images/katalog_produktow/przeplywomierze/dla-hydrauliki-silowej/HD_Flo-Check_4C.png">
 
 </span>
 <p>
@@ -98,7 +98,7 @@ Tester hydrauliczny Flo-Check może być użyty jako przenośny lub jako stacjon
 </p>
 <h3>Przepływomierze serii ACTIVA do oleju hydraulicznego</h3>
 <span class="blog-img-wrapper">
-<img alt="Hd_ft_activa_4c" src="/assets/images/katalog_produktow/dla_hydrauliki_silowej/HD_FT_Activa_4C.png">
+<img alt="Hd_ft_activa_4c" src="/assets/images/katalog_produktow/przeplywomierze/dla-hydrauliki-silowej/HD_FT_Activa_4C.png">
 
 </span>
 <p>
@@ -112,7 +112,7 @@ Czujniki z&nbsp;serii Activa to kompaktowe urządzenia do jednoczesnego pomiaru 
 </p>
 <h3>Przepływomierze serii ULTIMA do oleju hydraulicznego</h3>
 <span class="blog-img-wrapper">
-<img alt="Csm_ultima-sensor" src="/assets/images/katalog_produktow/dla_hydrauliki_silowej/csm_Ultima-Sensor.png">
+<img alt="Csm_ultima-sensor" src="/assets/images/katalog_produktow/przeplywomierze/dla-hydrauliki-silowej/csm_Ultima-Sensor.png">
 
 </span>
 <p>

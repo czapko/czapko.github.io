@@ -43,7 +43,7 @@ PRODUKTOW:
 
             <h3>Licznik elektroniczny LCR</h3>
 <span class="blog-img-wrapper">
-<img alt="Recordall" src="/assets/images/katalog_produktow/nutacyjne-dyskowe/recordall.jpg">
+<img alt="Recordall" src="/assets/images/katalog_produktow/przeplywomierze/nutacyjne-dyskowe/recordall.jpg">
 
 </span>
 <p>
@@ -57,7 +57,7 @@ Rejestrator elektroniczny z wyjściem impulsowym do modułowej instalacji na prz
 </p>
 <h3>Licznik mechaniczny R</h3>
 <span class="blog-img-wrapper">
-<img alt="Mech_register" src="/assets/images/katalog_produktow/nutacyjne-dyskowe/mech_register.png">
+<img alt="Mech_register" src="/assets/images/katalog_produktow/przeplywomierze/nutacyjne-dyskowe/mech_register.png">
 
 </span>
 <p>
@@ -71,7 +71,7 @@ Licznik mechaniczny R, jest prostym licznikiem przeznaczonym do stosowania z prz
 </p>
 <h3>Licznik mechaniczny RTR</h3>
 <span class="blog-img-wrapper">
-<img alt="Mech_register" src="/assets/images/katalog_produktow/nutacyjne-dyskowe/mech_register.png">
+<img alt="Mech_register" src="/assets/images/katalog_produktow/przeplywomierze/nutacyjne-dyskowe/mech_register.png">
 
 </span>
 <p>
@@ -85,7 +85,7 @@ Licznik mechaniczny RTR z wyjściem impulsowym, jest prostym licznikiem przeznac
 </p>
 <h3>Seria RCDL AdBlue</h3>
 <span class="blog-img-wrapper">
-<img alt="Rcdl_m25_ppo_dsc1409_4cl" src="/assets/images/katalog_produktow/nutacyjne-dyskowe/RCDL_M25_PPO_DSC1409_4Cl.png">
+<img alt="Rcdl_m25_ppo_dsc1409_4cl" src="/assets/images/katalog_produktow/przeplywomierze/nutacyjne-dyskowe/RCDL_M25_PPO_DSC1409_4Cl.png">
 
 </span>
 <p>
@@ -99,7 +99,7 @@ Seria przepływomierzy RCDL specjalnie przeznaczona do pomiaru AdBlue.
 </p>
 <h3>Impulsator PM5</h3>
 <span class="blog-img-wrapper">
-<img alt="Pm5-lcd" src="/assets/images/katalog_produktow/nutacyjne-dyskowe/PM5-LCD.jpg">
+<img alt="Pm5-lcd" src="/assets/images/katalog_produktow/przeplywomierze/nutacyjne-dyskowe/PM5-LCD.jpg">
 
 </span>
 <p>
@@ -113,7 +113,7 @@ Impulsator PM-5 przeznaczony jest do stosowania z przepływomierzami RCDL. Wyska
 </p>
 <h3>Impulsator PFT-2</h3>
 <span class="blog-img-wrapper">
-<img alt="Pft" src="/assets/images/katalog_produktow/nutacyjne-dyskowe/PFT.jpg">
+<img alt="Pft" src="/assets/images/katalog_produktow/przeplywomierze/nutacyjne-dyskowe/PFT.jpg">
 
 </span>
 <p>
@@ -127,7 +127,7 @@ Impulsator PFT-2E przeznaczony jest do stosowania z przepływomierzami RCDL. Imp
 </p>
 <h3>Impulsator PFT-2E</h3>
 <span class="blog-img-wrapper">
-<img alt="Pft-2e" src="/assets/images/katalog_produktow/nutacyjne-dyskowe/PFT-2E.jpg">
+<img alt="Pft-2e" src="/assets/images/katalog_produktow/przeplywomierze/nutacyjne-dyskowe/PFT-2E.jpg">
 
 </span>
 <p>
@@ -141,7 +141,7 @@ Impulsator PFT-2E przeznaczony jest do stosowania z przepływomierzami RCDL. Imp
 </p>
 <h3>Przetwornik analogowy PFT-420</h3>
 <span class="blog-img-wrapper">
-<img alt="Pft-420" src="/assets/images/katalog_produktow/nutacyjne-dyskowe/PFT-420.jpg">
+<img alt="Pft-420" src="/assets/images/katalog_produktow/przeplywomierze/nutacyjne-dyskowe/PFT-420.jpg">
 
 </span>
 <p>

@@ -43,7 +43,7 @@ PRODUKTOW:
 
             <h3>Detektor typu Food do żywności</h3>
 <span class="blog-img-wrapper">
-<img alt="Do_zywnosci" src="/assets/images/katalog_produktow/elektromagnetyczne/do_zywnosci.jpg">
+<img alt="Do_zywnosci" src="/assets/images/katalog_produktow/przeplywomierze/elektromagnetyczne/do_zywnosci.jpg">
 
 </span>
 <p>
@@ -57,7 +57,7 @@ Detektor typu Food stworzony został do pomiaru przepływu płynnej żywności. 
 </p>
 <h3>Detektor typu II</h3>
 <span class="blog-img-wrapper">
-<img alt="Kolnierzowe" src="/assets/images/katalog_produktow/elektromagnetyczne/kolnierzowe.jpg">
+<img alt="Kolnierzowe" src="/assets/images/katalog_produktow/przeplywomierze/elektromagnetyczne/kolnierzowe.jpg">
 
 </span>
 <p>
@@ -71,7 +71,7 @@ Elektromagnetyczny detektor typu II dostępny jest z szeroką gamą przyłączy 
 </p>
 <h3>Detektor typu III</h3>
 <span class="blog-img-wrapper">
-<img alt="Bezkolnierzowe" src="/assets/images/katalog_produktow/elektromagnetyczne/bezkolnierzowe.jpg">
+<img alt="Bezkolnierzowe" src="/assets/images/katalog_produktow/przeplywomierze/elektromagnetyczne/bezkolnierzowe.jpg">
 
 </span>
 <p>
@@ -85,7 +85,7 @@ Dzięki bardzo krótkiej długości, detektor typu III jest często właściwą 
 </p>
 <h3>Przetwornik ModMAG™ M 1000</h3>
 <span class="blog-img-wrapper">
-<img alt="M1000" src="/assets/images/katalog_produktow/elektromagnetyczne/m1000.png">
+<img alt="M1000" src="/assets/images/katalog_produktow/przeplywomierze/elektromagnetyczne/m1000.png">
 
 </span>
 <p>
@@ -99,7 +99,7 @@ Przetwornik typu M1000 jest przeznaczony do dwukierunkowego pomiaru przepływu c
 </p>
 <h3>Przetwornik ModMAG™ M 3000/4000</h3>
 <span class="blog-img-wrapper">
-<img alt="M3000" src="/assets/images/katalog_produktow/elektromagnetyczne/m3000.jpg">
+<img alt="M3000" src="/assets/images/katalog_produktow/przeplywomierze/elektromagnetyczne/m3000.jpg">
 
 </span>
 <p>
@@ -113,7 +113,7 @@ Przetwornik o&nbsp;konstrukcji modułowej pozwala na pomiary przepływu w&nbsp;s
 </p>
 <h3>Przetwornik ModMAG™ M 2000</h3>
 <span class="blog-img-wrapper">
-<img alt="M2000_4cl" src="/assets/images/katalog_produktow/elektromagnetyczne/M2000_4Cl.jpg">
+<img alt="M2000_4cl" src="/assets/images/katalog_produktow/przeplywomierze/elektromagnetyczne/M2000_4Cl.jpg">
 
 </span>
 <p>
@@ -127,7 +127,7 @@ Przetwornik typu M2000 jest przeznaczony do dwukierunkowego pomiaru przepływu c
 </p>
 <h3>Przetwornik ModMAG™ M 5000</h3>
 <span class="blog-img-wrapper">
-<img alt="Mid_m5000_0191_4cl" src="/assets/images/katalog_produktow/elektromagnetyczne/MID_M5000_0191_4Cl.jpg">
+<img alt="Mid_m5000_0191_4cl" src="/assets/images/katalog_produktow/przeplywomierze/elektromagnetyczne/MID_M5000_0191_4Cl.jpg">
 
 </span>
 <p>
