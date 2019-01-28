@@ -21,7 +21,7 @@ permalink: /kontakt
 <li class="input tel required"><label class="tel required" for="inquiry_requester_phone"><abbr title="required">*</abbr> Telefon kontaktowy</label><input class="string tel required" id="inquiry_requester_phone" maxlength="255" name="inquiry[requester_phone]" required="required" size="50" type="tel"></li>
 <li class="input string required"><label class="string required" for="inquiry_subject"><abbr title="required">*</abbr> Tytuł</label><input class="string required" id="inquiry_subject" maxlength="255" name="inquiry[subject]" required="required" size="50" type="text"></li>
 <li class="input text required"><label class="text required" for="inquiry_content"><abbr title="required">*</abbr> Treść</label><textarea class="text required" cols="40" id="inquiry_content" name="inquiry[content]" required="required" rows="20"></textarea></li>
-<input id="submit_inquiry" name="commit" type="submit" value="Wyślij">
+<input id="submit_inquiry" name="commit" type="submit" value="Wyślij" disabled='disabled'>
 </ol>
 </form>
 
