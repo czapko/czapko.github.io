@@ -1,6 +1,6 @@
 ---
 layout: front
-title: PUHP Zdzisław Czapko
+title: PUHP Zdzisław Czapko - Przepływomierze dla hydrauliki siłowej
 permalink: /p/przeplywomierze/dla-hydrauliki-silowej/cyfrowy-tester-hydrauliczny-pfm6-bd/
 ---
 

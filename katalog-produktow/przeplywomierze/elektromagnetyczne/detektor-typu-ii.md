@@ -1,6 +1,6 @@
 ---
 layout: front
-title: PUHP Zdzisław Czapko
+title: PUHP Zdzisław Czapko - Przepływomierze elektromagnetyczne
 permalink: /p/przeplywomierze/elektromagnetyczne/detektor-typu-ii/
 ---
 

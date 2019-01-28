@@ -1,6 +1,7 @@
 ---
 layout: front
-title: PUHP Zdzisław Czapko
+title: PUHP Zdzisław Czapko - Przepływomierze wirowe
+
 permalink: /p/przeplywomierze/wirowe/racine-sup-sup-vortex/
 ---
 

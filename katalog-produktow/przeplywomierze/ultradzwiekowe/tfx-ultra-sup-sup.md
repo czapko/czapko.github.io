@@ -1,6 +1,6 @@
 ---
 layout: front
-title: PUHP Zdzisław Czapko
+title: PUHP Zdzisław Czapko - Przepływomierze ultradźwiękowe
 permalink: /p/przeplywomierze/ultradzwiekowe/tfx-ultra-sup-sup/
 ---
 

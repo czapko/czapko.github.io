@@ -1,6 +1,6 @@
 ---
 layout: front
-title: PUHP Zdzisław Czapko
+title: PUHP Zdzisław Czapko - Przepływomierze o zmiennym przekroju
 permalink: /p/przeplywomierze/o-zmiennym-przekroju/przeplywomierze-do-cieczy-opartych-na-bazie-ropy-naftowej/
 ---
 

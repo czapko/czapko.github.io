@@ -1,6 +1,6 @@
 ---
 layout: front
-title: PUHP Zdzisław Czapko
+title: PUHP Zdzisław Czapko - Czujniki przemysłowe API Industry
 permalink: /p/api-industry/czujniki-przemyslowe/uts-ultradzwiekowy-sygnalizator-poziomu/
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: front
-title: PUHP Zdzisław Czapko
+title: PUHP Zdzisław Czapko - Zawory regulacyjne - zawory procesowe
 permalink: /p/zawory-regulacyjne/zawory-procesowe/zawor-kriogeniczny-orion-960/
 ---
 

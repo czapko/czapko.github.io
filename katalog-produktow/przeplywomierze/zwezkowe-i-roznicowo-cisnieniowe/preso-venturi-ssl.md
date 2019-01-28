@@ -1,6 +1,6 @@
 ---
 layout: front
-title: PUHP Zdzisław Czapko
+title: PUHP Zdzisław Czapko - Przepływomierze zwężkowe i różnicowo-ciśnieniowe
 permalink: /p/przeplywomierze/zwezkowe-i-roznicowo-cisnieniowe/preso-venturi-ssl/
 ---
 
@@ -30,7 +30,7 @@ permalink: /p/przeplywomierze/zwezkowe-i-roznicowo-cisnieniowe/preso-venturi-ssl
             </p>
             
             <p class="sheet">
-              <a href="/assets/images/katalog_produktow/przeplywomierze/zwezkowe-i-roznicowo-cisnieniowe/DB_Preso_Venturi_SSL_flow_measurement_en.pdf">Karta katalogowa</a>
+              <a href="/assets/documents/przeplywomierze/zwezkowe-i-roznicowo-cisnieniowe/DB_Preso_Venturi_SSL_flow_measurement_en.pdf">Karta katalogowa</a>
 
             </p>
           </div>

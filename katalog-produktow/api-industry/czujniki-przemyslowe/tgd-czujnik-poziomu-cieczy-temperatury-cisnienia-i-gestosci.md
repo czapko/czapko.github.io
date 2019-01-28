@@ -1,6 +1,6 @@
 ---
 layout: front
-title: PUHP Zdzisław Czapko
+title: PUHP Zdzisław Czapko - Czujniki przemysłowe API Industry
 permalink: /p/api-industry/czujniki-przemyslowe/tgd-czujnik-poziomu-cieczy-temperatury-cisnienia-i-gestosci/
 ---
 

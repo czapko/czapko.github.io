@@ -1,6 +1,6 @@
 ---
 layout: front
-title: PUHP Zdzisław Czapko
+title: PUHP Zdzisław Czapko - Przepływomierze owalno-zębate
 permalink: /p/przeplywomierze/owalno-zebate/lm-og-a/
 ---
 

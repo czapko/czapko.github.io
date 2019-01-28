@@ -1,6 +1,6 @@
 ---
 layout: front
-title: PUHP Zdzisław Czapko
+title: PUHP Zdzisław Czapko - Przepływomierze zwężkowe i różnicowo-ciśnieniowe
 permalink: /p/przeplywomierze/zwezkowe-i-roznicowo-cisnieniowe/preso-ellipse-asf/
 ---
 

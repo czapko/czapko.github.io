@@ -1,6 +1,6 @@
 ---
 layout: front
-title: PUHP Zdzisław Czapko
+title: PUHP Zdzisław Czapko - Małe zawory regulacyjne
 permalink: /p/zawory-regulacyjne/male-zawory-regulacyjne/zawor-regulacyjny-rc-210/
 ---
 

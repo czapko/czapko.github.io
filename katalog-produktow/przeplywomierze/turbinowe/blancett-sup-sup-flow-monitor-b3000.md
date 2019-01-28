@@ -1,6 +1,6 @@
 ---
 layout: front
-title: PUHP Zdzisław Czapko
+title: PUHP Zdzisław Czapko - Przepływomierze turbinowe
 permalink: /p/przeplywomierze/turbinowe/blancett-sup-sup-flow-monitor-b3000/
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: front
-title: PUHP Zdzisław Czapko
+title: PUHP Zdzisław Czapko - Zawory regulacyjne w wykonaniu higienicznym
 permalink: /p/zawory-regulacyjne/zawory-w-wykonaniu-higienicznym/zawor-sc-510/
 ---
 

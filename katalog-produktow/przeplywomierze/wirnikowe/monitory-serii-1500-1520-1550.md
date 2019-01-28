@@ -1,6 +1,6 @@
 ---
 layout: front
-title: PUHP Zdzisław Czapko
+title: PUHP Zdzisław Czapko - Przepływomierze wirnikowe
 permalink: /p/przeplywomierze/wirnikowe/monitory-serii-1500-1520-1550/
 ---
 
