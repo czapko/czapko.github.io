@@ -122,13 +122,13 @@ a {color:#8f1c18;}
 /*================= SLIDER positions ============================*/
 #sliders-background { background:#8f1c18;}
 
-#slider-background { background:transparent url("style4/slider-content.jpg") repeat-y top center;}
+#slider-background { background:transparent url("/assets/images/slider-content.jpg") repeat-y top center;}
 
-#slider-top {background:transparent url("style4/slider-top.jpg") no-repeat top center;}
+#slider-top {background:transparent url("/assets/images/slider-top.jpg") no-repeat top center;}
 
 
 .slider-shadow-right {background:transparent url("style4/slider-bottom.jpg") no-repeat bottom center;}
-.slider-shadow-left {background:transparent url("style4/slider-bottom2.jpg") no-repeat bottom center;}
+.slider-shadow-left {background:transparent url("/assets/images/slider-bottom2.jpg") no-repeat bottom center;}
 .slider-shadow-bottom {background:transparent url("style4/slider-bottom3.jpg") no-repeat bottom center;}
 .slider-shadow-top {background:transparent url("style4/slider-bottom4.jpg") no-repeat bottom center;}
 
@@ -192,10 +192,10 @@ border-left:1px solid #ffffff;
 
 
  /* Frontpage widget Area and content */
-.wrapper-with-color-background-frontpage {background: #ffffff url(style4/content-area-background.jpg) repeat-x top left;}
-.wrapper-with-color-background{background:#ffffff url(style4/page-background.jpg) repeat-y top center;} 
+.wrapper-with-color-background-frontpage {background: #ffffff url("/assets/images/content-area-background.jpg") repeat-x top left;}
+.wrapper-with-color-background{background:#ffffff url("/assets/images/page-background.jpg") repeat-y top center;} 
 .content-background-right {background:#ffffff url(style4/page-background-sidebar-left.png) repeat-y top center;}
-.full-width-background {background: #ffffff url(style4/content-area-background.jpg) repeat-x top left;}
+.full-width-background {background: #ffffff url("/assets/images/content-area-background.jpg") repeat-x top left;}
 
 
 /* ================== frontpage content welcome =================== */
@@ -360,10 +360,10 @@ ul.twitter li.twitter-item {background:#f3f3f3;border:1px solid #daddc5;  }
 
 /* Company info widget */
 
-ul li.company-info-name{padding:0 0 0 23px;background:transparent url(style4/widget-company-info/who.png) no-repeat top left;}
-ul li.company-info-address{padding:0 0 0 23px;background:transparent url(style4/widget-company-info/address.png) no-repeat top left;}
-ul li.company-info-phone{padding:0 0 0 23px;background:transparent url(style4/widget-company-info/talk.png) no-repeat top left;}
-ul li.company-info-email{padding:0 0 0 23px;background:transparent url(style4/widget-company-info/email.png) no-repeat top left;}
+ul li.company-info-name{padding:0 0 0 23px;background:transparent url("/assets/images/widget-company-info/who.png") no-repeat top left;}
+ul li.company-info-address{padding:0 0 0 23px;background:transparent url("/assets/images/widget-company-info/address.png") no-repeat top left;}
+ul li.company-info-phone{padding:0 0 0 23px;background:transparent url("/assets/images/widget-company-info/talk.png") no-repeat top left;}
+ul li.company-info-email{padding:0 0 0 23px;background:transparent url("/assets/images/widget-company-info/email.png") no-repeat top left;}
 
 /* CONTACT Widget */
 
@@ -472,10 +472,10 @@ ul li.company-info-email{padding:0 0 0 23px;background:transparent url(style4/wi
 .recent-blog-entries-banner-top {background:transparent url(style4/recent_blog_entries_banner_top.png) no-repeat top right;}
 .recent-blog-entries-banner {background:transparent url(style4/recent_blog_entries_banner.png) no-repeat top left;}
 
-#bottom-of-site-begin{background:#222222 url(style4/footerbg.jpg) repeat-x top center;}
+#bottom-of-site-begin{background:#222222 url("/assets/images/footerbg.jpg") repeat-x top center;}
 #wrapper-with-texture{background:#191919;overflow:hidden;}
-#bottom-of-site-content-background{background:#191919 url(style4/background-bottom-blog.jpg) no-repeat top left;}
-#bottom-of-site-end{background:#070707 url(style4/footer-bottom-line.jpg) repeat-x top left;} 
+#bottom-of-site-content-background{background:#191919 url("/assets/images/background-bottom-blog.jpg") no-repeat top left;}
+#bottom-of-site-end{background:#070707 url("/assets/images/footer-bottom-line.jpg") repeat-x top left;} 
 .blogpost  {}
 .blogpost .img-wrapper {border:8px solid white;background:#ffffff url('/assets/images/loading.gif') no-repeat center; }
 .blogpost .img-wrapper2 { background:#ffffff url('/assets/images/loading.gif') no-repeat center; }
@@ -582,7 +582,7 @@ em.box {background:#f3f3f3;border:1px solid #daddc5;}
 .blue {color:#2d3d57;}
 
 /*sidebar*/
-#sidebar {background:transparent url(style4/sidebar-top-x.jpg) repeat-x top left;}
+#sidebar {background:transparent url("/assets/images/sidebar-top-x.jpg") repeat-x top left;}
 .blog-background-sidebar-left {background:transparent url(style4/blog-background2-x.jpg) repeat-y top left;}
 .blog-background-sidebar-right {background:transparent url(style4/blog-background-x.jpg) repeat-y top left;}
 
@@ -727,7 +727,7 @@ form#new_inquiry .forms .error {
 
 #subnavigation ul li {
   padding: 5px 0 5px 20px;
-  background: transparent url(/bravissimo/styles/style4/list-style-arrow.png) no-repeat -5px 4px; }
+  background: transparent url("/assets/images/list-style-arrow.png") no-repeat -5px 4px; }
 #subnavigation li.category {
   font-weight: bold; }
   #subnavigation li.category ul li.product {
@@ -760,7 +760,7 @@ p.separator {
 
 #subnavigation ul .light-widget ul li {
   padding: 5px 0 5px 30px;
-  background: transparent url(/bravissimo/styles/style4/list-style-arrow.png) no-repeat 5px 4px; }
+  background: transparent url("/assets/images/list-style-arrow.png") no-repeat 5px 4px; }
 
 #sliders-background a {
   color: white;
