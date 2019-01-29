@@ -38,7 +38,7 @@ permalink: /kontakt
                 <li class="company-info-phone">+48 (32) 236 74 47</li>
                 <li class="company-info-phone">+48 (32) 236 87 87</li>              
                 <li class="company-info-phone">+48 793 391 435</li>
-                <li class="company-info-email">biuro@czapko.pl</li>
+                <li class="company-info-email"><a href="mailto:biuro@czapko.pl">biuro@czapko.pl</a></li>
               </ul>            
               <div class="testi-container">
                 <div id="contact-map">
