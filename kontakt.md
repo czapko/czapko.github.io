@@ -34,9 +34,6 @@ permalink: /kontakt
                 <li class="company-info-name">PUHP Zdzisław Czapko EXPORT-IMPORT</li>
                 <li class="company-info-address">Korfantego 6, 44-193 Knurów</li>
 
-                <li class="company-info-phone">+48 (32) 236-71-32</li>
-                <li class="company-info-phone">+48 (32) 236 74 47</li>
-                <li class="company-info-phone">+48 (32) 236 87 87</li>              
                 <li class="company-info-phone">+48 793 391 435</li>
                 <li class="company-info-email"><a href="mailto:biuro@czapko.pl">biuro@czapko.pl</a></li>
               </ul>            
