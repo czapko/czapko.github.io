@@ -32,7 +32,7 @@ permalink: /p/
 <div class="img-wrapper">
 <a href="/p/przeplywomierze/elektromagnetyczne">
 Przepływomierze
-<img src="/assets/images/katalog_produktow/przeplywomierze_elektromagnetyczne.jpg">
+<img src="/assets/images/katalog_produktow/przeplywomierze_elektromagnetyczne_tlo.jpg">
 </a>
 </div>
 </li>
@@ -41,7 +41,7 @@ Przepływomierze
 <div class="img-wrapper">
 <a href="/p/przeplywomierze/turbinowe">
 Przepływomierze
-<img src="/assets/images/katalog_produktow/przeplywomierze_turbinowe.jpg">
+<img src="/assets/images/katalog_produktow/przeplywomierze_turbinowe_tlo.jpg">
 </a>
 </div>
 </li>
@@ -50,7 +50,7 @@ Przepływomierze
 <div class="img-wrapper">
 <a href="/p/przeplywomierze/owalno-zebate">
 Przepływomierze
-<img src="/assets/images/katalog_produktow/przeplywomierze_owalno-zebate.jpg">
+<img src="/assets/images/katalog_produktow/przeplywomierze_owalno-zebate_tlo.jpg">
 </a>
 </div>
 </li>
@@ -59,7 +59,7 @@ Przepływomierze
 <div class="img-wrapper">
 <a href="/p/przeplywomierze/nutacyjne-dyskowe">
 Przepływomierze
-<img src="/assets/images/katalog_produktow/przeplywomierze_recordall.jpg">
+<img src="/assets/images/katalog_produktow/przeplywomierze_nutacyjne_dyskowe_tlo.jpg">
 </a>
 </div>
 </li>
@@ -68,7 +68,7 @@ Przepływomierze
 <div class="img-wrapper">
 <a href="/p/przeplywomierze/ultradzwiekowe">
 Przepływomierze
-<img src="/assets/images/katalog_produktow/przeplywomierze_ultradzwiekowe.jpg">
+<img src="/assets/images/katalog_produktow/przeplywomierze_ultradzwiekowe_tlo.jpg">
 </a>
 </div>
 </li>
@@ -77,10 +77,11 @@ Przepływomierze
 <div class="img-wrapper">
 <a href="/p/przeplywomierze/wirnikowe">
 Przepływomierze
-<img src="/assets/images/katalog_produktow/przeplywomierze_wirnikowe.jpg">
+<img src="/assets/images/katalog_produktow/przeplywomierze_wirnikowe_tlo.jpg">
 </a>
 </div>
 </li>
+<!--
 <li>
 <h3>Wirowe</h3>
 <div class="img-wrapper">
@@ -153,7 +154,7 @@ Przepływomierze
 </a>
 </div>
 </li>
-
+-->
             </ul>
           </div>
         </div>
