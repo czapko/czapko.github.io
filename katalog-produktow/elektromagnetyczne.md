@@ -22,26 +22,40 @@ permalink: /p/przeplywomierze/elektromagnetyczne/
             <div class="image-right">
             </div>
             <p>
-              Elektromagnetyczna metoda pomiaru idealnie nadaje się do mierzenia przepływu cieczy, szlamów i past o małej konduktywności. Medium może przepływać przez przepływomierz bez wytworzenia dodatkowych spadków ciśnienia, gdyż nie znajdują się w nim żadne dodatkowe elementy. Pomiar przepływu jest niezależny od gęstości, temperatury i ciśnienia medium. Części stałe nie mają wpływu na pomiar, który może być dokonany z dokładnością +/- 0,25%.
+              Przepływomierze elektromagnetyczne są idealnymi przepływomierzami do pomiaru wszystkich cieczy przewodzących prąd elektryczny, prawie niezależnie od ciśnienia, gęstości, temperatury i lepkości.
             </p>
+            <h3>Zasada pomiaru</h3>
+            <p>Przepływomierze elektromagnetyczne są oparte na prawie indukcji Faradaya. Dwie przeciwległe elektrody są umieszczone wewnątrz na godzinie trzeciej i dziewiątej. Kiedy ciecz przepływa przez pole magnetyczne, na elektrodach indukowane jest napięcie. Średnia prędkość cieczy jest proporcjonalna do indukowanego napięcia mierzonego przez elektrody (pomiar prędkości przepływu).</p>
             
             <p class="sheet">
-              <a href="/assets/documents/MAG_meter_overview_pl.pdf">Karta katalogowa</a>
-
+              <!--<a href="/assets/documents/MAG_meter_overview_pl.pdf">Karta katalogowa</a>-->
             </p>
             <br>
             <ul class="meta">
+
 <li>
 KATEGORIA:
 Przepływomierze
 </li>
-<li>
+<!--<li>
 PRODUKTOW:
-7
-</li>
+1
+</li>-->
 </ul>
 
-            <h3>Detektor typu Food do żywności</h3>
+<h3>Wersja QSE</h3>
+<span class="blog-img-wrapper">
+<img alt="Do_zywnosci" style="width: 200px;" src="/assets/images/katalog_produktow/przeplywomierze/elektromagnetyczne/qse.jpg">
+
+</span>
+<p class="separator">
+<a class="more-link" href="/p/przeplywomierze/elektromagnetyczne/qse">
+<span class="button-clear">ZOBACZ WIĘCEJ</span>
+</a>
+
+</p>
+
+<!--            <h3>Detektor typu Food do żywności</h3>
 <span class="blog-img-wrapper">
 <img alt="Do_zywnosci" src="/assets/images/katalog_produktow/przeplywomierze/elektromagnetyczne/do_zywnosci.jpg">
 
@@ -139,7 +153,7 @@ MAG™ M5000 jest przepływomierzem elektromagnetycznym zasilanym bateryjnie o&n
 </a>
 
 </p>
-
+-->
           </div>
         </div>
       </div>
@@ -150,6 +164,7 @@ MAG™ M5000 jest przepływomierzem elektromagnetycznym zasilanym bateryjnie o&n
 <li class="category"><a href="/p/przeplywomierze/elektromagnetyczne">Elektromagnetyczne</a></li>
 <div class="light-widget">
 <ul class="products">
+<!--
 <li class="product"><a href="/p/przeplywomierze/elektromagnetyczne/detektor-typu-food-do-zywnosci">Detektor typu Food do żywności</a></li>
 <li class="product"><a href="/p/przeplywomierze/elektromagnetyczne/detektor-typu-ii">Detektor typu II</a></li>
 <li class="product"><a href="/p/przeplywomierze/elektromagnetyczne/detektor-typu-iii">Detektor typu III</a></li>
@@ -157,6 +172,8 @@ MAG™ M5000 jest przepływomierzem elektromagnetycznym zasilanym bateryjnie o&n
 <li class="product"><a href="/p/przeplywomierze/elektromagnetyczne/przetwornik-modmag-m-3000-4000">Przetwornik ModMAG™ M 3000/4000</a></li>
 <li class="product"><a href="/p/przeplywomierze/elektromagnetyczne/przetwornik-modmag-m-2000">Przetwornik ModMAG™ M 2000</a></li>
 <li class="product"><a href="/p/przeplywomierze/elektromagnetyczne/przetwornik-modmag-m-5000">Przetwornik ModMAG™ M 5000</a></li>
+-->
+<li class="product"><a href="/p/przeplywomierze/elektromagnetyczne/qse">QSE</a></li>
 </ul>
 </div>
 <li class="category"><a href="/p/przeplywomierze/turbinowe">Turbinowe</a></li>
@@ -164,11 +181,14 @@ MAG™ M5000 jest przepływomierzem elektromagnetycznym zasilanym bateryjnie o&n
 <li class="category"><a href="/p/przeplywomierze/nutacyjne-dyskowe">Nutacyjne-dyskowe</a></li>
 <li class="category"><a href="/p/przeplywomierze/ultradzwiekowe">Ultradźwiękowe</a></li>
 <li class="category"><a href="/p/przeplywomierze/wirnikowe">Wirnikowe</a></li>
+<!--
 <li class="category"><a href="/p/przeplywomierze/wirowe">Wirowe</a></li>
 <li class="category"><a href="/p/przeplywomierze/o-zmiennym-przekroju">O zmiennym przekroju</a></li>
 <li class="category"><a href="/p/przeplywomierze/dla-hydrauliki-silowej">Dla hydrauliki siłowej</a></li>
 <li class="category"><a href="/p/przeplywomierze/zwezkowe-i-roznicowo-cisnieniowe">Zwężkowe i różnicowo-ciśnieniowe</a></li>
+-->
 </ul>
+<!--
 <h3>Zawory regulacyjne</h3>
 <ul class="subcategories">
 <li class="category"><a href="/p/zawory-regulacyjne/male-zawory-regulacyjne">Małe zawory regulacyjne</a></li>
@@ -179,6 +199,7 @@ MAG™ M5000 jest przepływomierzem elektromagnetycznym zasilanym bateryjnie o&n
 <ul class="subcategories">
 <li class="category"><a href="/p/api-industry/czujniki-przemyslowe">Czujniki przemysłowe</a></li>
 </ul>
+-->
 </div>
 
         
