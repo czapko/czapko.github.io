@@ -22,11 +22,10 @@ permalink: /p/przeplywomierze/nutacyjne-dyskowe/
             <div class="image-right">
             </div>
             <p>
-              Przepływomierze typu Recordall<sup>®</sup> nadają się najlepiej do aplikacji pomiaru przepływu cieczy o maksymalnej lepkości 700 mPas i w maksymalnych temperaturach 50°C i 120°C. Typowe zastosowania to: czyste i średnio zanieczyszczone ciecze, twarda i miękka woda, oleje, paliwo, rozpuszczalniki, itp.
+              Przepływomierze nutacyjne dyskowe oparte są na zasadzie pomiaru objętości. Punktem odniesienia dla pomiarów jest ciecz o lepkości do 500 mPas. Komora pomiarowa z dyskiem nutującym, urządzeniem blokującym i magnesem transmisyjnym stanowi jedną całość.
             </p>
             
             <p class="sheet">
-              <a href="/assets/documents/ND_RCDL_DB_10_0492.pdf">Karta katalogowa</a>
 
             </p>
             <br>
@@ -37,11 +36,25 @@ Przepływomierze
 </li>
 <li>
 PRODUKTOW:
-8
+1
 </li>
 </ul>
 
-            <h3>Licznik elektroniczny LCR</h3>
+<h3>Seria FM</h3>
+<span class="blog-img-wrapper">
+<img alt="Do_zywnosci" style="width: 200px;" src="/assets/images/katalog_produktow/przeplywomierze/nutacyjne-dyskowe/seria-fm.jpg">
+
+</span>
+<p class="separator">
+<a class="more-link" href="/p/przeplywomierze/nutacyjne-dyskowe/seria-fm">
+<span class="button-clear">ZOBACZ WIĘCEJ</span>
+</a>
+
+</p>
+
+
+
+<!-- <h3>Licznik elektroniczny LCR</h3>
 <span class="blog-img-wrapper">
 <img alt="Recordall" src="/assets/images/katalog_produktow/przeplywomierze/nutacyjne-dyskowe/recordall.jpg">
 
@@ -153,7 +166,7 @@ Konwerter PFT-420 przeznaczony jest do stosowania z przepływomierzami RCDL. Kon
 </a>
 
 </p>
-
+        -->
           </div>
         </div>
       </div>
@@ -167,6 +180,8 @@ Konwerter PFT-420 przeznaczony jest do stosowania z przepływomierzami RCDL. Kon
 <li class="category"><a href="/p/przeplywomierze/nutacyjne-dyskowe">Nutacyjne-dyskowe</a></li>
 <div class="light-widget">
 <ul class="products">
+  <li class="product"><a href="/p/przeplywomierze/nutacyjne-dyskowe/seria-fm">Seria FM</a></li>
+  <!--
 <li class="product"><a href="/p/przeplywomierze/nutacyjne-dyskowe/licznik-elektroniczny-lcr">Licznik elektroniczny LCR</a></li>
 <li class="product"><a href="/p/przeplywomierze/nutacyjne-dyskowe/licznik-mechaniczny-r">Licznik mechaniczny R</a></li>
 <li class="product"><a href="/p/przeplywomierze/nutacyjne-dyskowe/licznik-mechaniczny-rtr">Licznik mechaniczny RTR</a></li>
@@ -175,6 +190,7 @@ Konwerter PFT-420 przeznaczony jest do stosowania z przepływomierzami RCDL. Kon
 <li class="product"><a href="/p/przeplywomierze/nutacyjne-dyskowe/impulsator-pft-2">Impulsator PFT-2</a></li>
 <li class="product"><a href="/p/przeplywomierze/nutacyjne-dyskowe/impulsator-pft-2e">Impulsator PFT-2E</a></li>
 <li class="product"><a href="/p/przeplywomierze/nutacyjne-dyskowe/przetwornik-analogowy-pft-420">Przetwornik analogowy PFT-420</a></li>
+-->
 </ul>
 </div>
 <li class="category"><a href="/p/przeplywomierze/ultradzwiekowe">Ultradźwiękowe</a></li>

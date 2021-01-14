@@ -39,7 +39,7 @@ permalink: /p/przeplywomierze/elektromagnetyczne/qse/
             </ul>
             <h3>Zasada pomiaru</h3>
             <p>Przepływomierze elektromagnetyczne są oparte na prawie indukcji Faradaya. Dwie przeciwległe elektrody są umieszczone wewnątrz na godzinie trzeciej i dziewiątej. Kiedy ciecz przepływa przez pole magnetyczne, na elektrodach indukowane jest napięcie. Średnia prędkość cieczy jest proporcjonalna do indukowanego napięcia mierzonego przez elektrody (pomiar prędkości przepływu).</p>
-            <h3>Atrybuty</h3>
+            <h3>Cechy</h3>
             <ul>
 <li>Pomiar prawie niezależny od ciśnienia, gęstości, temperatury i lepkości</li>
 <li>Nadaje się do cieczy korozyjnych i płynów o różnej lepkości</li>
