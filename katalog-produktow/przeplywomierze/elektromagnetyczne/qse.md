@@ -51,7 +51,7 @@ permalink: /p/przeplywomierze/elektromagnetyczne/qse/
             </ul>
             
             <p class="sheet">
-              <a href="/assets/documents/przeplywomierze/elektromagnetyczne/qse-data-sheet.pdf">Karta katalogowa</a>
+              <a href="/assets/documents/przeplywomierze/elektromagnetyczne/qse-data-sheet.pdf">Karta katalogowa (angielski)</a>
             </p>
             <p class="sheet">
               <a href="/assets/documents/przeplywomierze/elektromagnetyczne/qse-owners-manual.pdf">Instrukcja obsługi (angielski)</a>
