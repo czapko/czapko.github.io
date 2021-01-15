@@ -314,13 +314,13 @@ Przepływomierz  liniowy  UH  przeznaczony  jest  do  użycia w  przemyśle moto
 <li class="category"><a href="/p/przeplywomierze/owalno-zebate">Owalno-zębate</a></li>
 <div class="light-widget">
 <ul class="products">
-  <li class="product"><a href="/p/przeplywomierze/owalno-zebate/seria-OM-mala-pojemnosc/">OM mała pojemność</a></li>
-  <li class="product"><a href="/p/przeplywomierze/owalno-zebate/seria-OM-srednia-pojemnosc/">OM średnia pojemność</a></li>
-  <li class="product"><a href="/p/przeplywomierze/owalno-zebate/seria-OM-duza-pojemnosc/">OM duża pojemność</a></li>
-  <li class="product"><a href="/p/przeplywomierze/owalno-zebate/seria-OM-przeplywomierz-mechaniczny/">OM przepływomierz mechaniczny</a></li>
-  <li class="product"><a href="/p/przeplywomierze/owalno-zebate/seria-OM-przeplywomierz-chemiczny/">OM przepływomierz chemiczny</a></li>
-  <li class="product"><a href="/p/przeplywomierze/owalno-zebate/seria-EGM-przeplywomierz-elektroniczny/">EGM przepływomierz elektroniczny</a></li>
-  <li class="product"><a href="/p/przeplywomierze/owalno-zebate/seria-D-przeplywomierz-do-oleju-napedowego/">D przepływomierz do oleju napędowego</a></li>
+  <li class="product"><a href="/p/przeplywomierze/owalno-zebate/seria-OM-mala-pojemnosc">Seria OM mała pojemność</a></li>
+  <li class="product"><a href="/p/przeplywomierze/owalno-zebate/seria-OM-srednia-pojemnosc">Seria OM średnia pojemność</a></li>
+  <li class="product"><a href="/p/przeplywomierze/owalno-zebate/seria-OM-duza-pojemnosc">Seria OM duża pojemność</a></li>
+  <li class="product"><a href="/p/przeplywomierze/owalno-zebate/seria-OM-przeplywomierz-mechaniczny/">Seria OM przepływomierz mechaniczny</a></li>
+  <li class="product"><a href="/p/przeplywomierze/owalno-zebate/seria-OM-przeplywomierz-chemiczny/">Seria OM przepływomierz chemiczny</a></li>
+  <li class="product"><a href="/p/przeplywomierze/owalno-zebate/seria-EGM-przeplywomierz-elektroniczny/">Seria EGM przepływomierz elektroniczny</a></li>
+  <li class="product"><a href="/p/przeplywomierze/owalno-zebate/seria-D-przeplywomierz-do-oleju-napedowego/">Seria D przepływomierz do oleju napędowego</a></li>
   <li class="product"><a href="/p/przeplywomierze/owalno-zebate/kompaktowy-kolektor-wtrysku-z-dodatkiem-do-bloku-AIM/">Kompaktowy kolektor wtrysku</a></li>
   <!--
 <li class="product"><a href="/p/przeplywomierze/owalno-zebate/iog-sup-sup-low-flow">IOG<sup>®</sup> low flow</a></li>
