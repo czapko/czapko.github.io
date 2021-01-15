@@ -22,30 +22,34 @@ permalink: /p/przeplywomierze/owalno-zebate/
             <div class="image-right">
             </div>
             <p>
-              Cechy 
-                </p><ul>
-                  <li>Kompaktowa konstrukcja
-                  </li><li>Wysoka dokładność i powtarzalność
-                  </li><li>Fabryczna kalibracja
-                  </li><li>Zakres pomiaru od  1-700  l/m in
-                  </li><li>Montaż w dowolnej pozycji (pionowo lub poziomo)
-                  </li><li>Mały spadek ciśnienia
-                  </li><li>Minimalna ilość części zużywających się
-                  </li><li>Szeroki zakres liczników elektronicznych
-                  </li><li>Opcjonalna regulowana długość zabudowy
-                  </li><li>Dopuszczenie ATEX
-                </li></ul>
-                <br>
-              
-              Przemysłowy  przepływomierz  OG  to  przepływomierz modularny,  ekonomiczny  a  zarazem  o  dużej  dokładności posiadający mocną obudowę. W  związku  z  zastosowaną  technologią  pomiaru, przepływomierz  przemysłowy  OG  może  być  użyty  w   wielu aplikacjach  gdzie  konwencjonalne  przepływomierze  nie znajdują zastosowania.
-              
-              Przepływomierze owalno-zębate nadają się zarówno do  pomiaru cieczy o wysokiej lepkości jak i wysoko korozyjnych. 
-              Przemysłowe  przepływomierze  owalno-zębate  przeznaczone  są do różnych aplikacji chemicznych włączając w to płyny oparte na  bazie  ropy,  roztwory  wodne  i  inne  płyny  kompatybilne z materiałami konstrukcyjnymi przepływomierza.
-            <p></p>
+            Owalne przepływomierze zębate są bardzo precyzyjnymi przepływomierzami mechanicznymi. Solidna zasada pomiaru umożliwia pomiar przepływu różnych czystych cieczy o niskiej i wysokiej lepkości. Wersje wykonane ze stali nierdzewnej i tworzywa sztucznego są odpowiednie do większości cieczy na bazie wody i chemikaliów, mierniki aluminiowe są przeznaczone do paliw, olejów opałowych i smarów.
+            </p>
+            <h3>Funkcje</h3>
+            <ul>
+<li>Rozmiary liczników od DN6 (1/8 ") do DN100 (4"), z przyłączem gwintowanym, kołnierzami DIN i ANSI</li>
+<li>Zakres przepływu od 0,017 l / min do 2500 l / min</li>
+<li>Dokładność pomiaru: ± 0,5% odczytu</li>
+<li>Materiały miernika: aluminium, stal nierdzewna, PPS i PVC</li>
+<li>Dostępne wersje wysokociśnieniowe do 400 bar</li>
+<li>Nadaje się do pomiaru mediów o niskiej i wysokiej lepkości do 500 000 mPas</li>
+<li>Można podłączyć elektronikę Fluidwell i STIX Durchflussmesstechnik</li>
+<li>Specyficzne wersje miernika do użytku w obszarach ATEX i IECEx oraz iskrobezpiecznych (IS)</li>
+            </ul>
+            <h3>Zasada pomiaru</h3>
+            <p>
+            Ciecz przepływa przez komorę pomiarową i powoduje obracanie się owalnych kół zębatych. Każdy obrót owalnych kół zębatych zapewnia dokładnie określoną objętość. Magnesy włożone w owalne koła zębate aktywują kontaktron i przekazują impulsy do płytki impulsatora lub do wyświetlacza.
+            </p>
+            <h3>Cechy</h3>
+            <ul>
+<li>Seria ma budowę modułową</li>
+<li>Solidna konstrukcja i niskie koszty utrzymania</li>
+<li>Pomiar prawie niezależny od lepkości i gęstości</li>
+<li>Możliwy dwukierunkowy pomiar przepływu</li>
+<li>Instalacja bez sekcji wlotu / wylotu</li>
+<li>Dostępne materiały odporne na korozję</li>
+            </ul>
             
             <p class="sheet">
-              <a href="/assets/documents/OG_IOG_DB_10_0965_pl.pdf">Karta katalogowa</a>
-
             </p>
             <br>
             <ul class="meta">
@@ -53,12 +57,111 @@ permalink: /p/przeplywomierze/owalno-zebate/
 KATEGORIA:
 Przepływomierze
 </li>
+<!--
 <li>
 PRODUKTOW:
 10
 </li>
+-->
 </ul>
+<h3>Seria OM mała pojemność</h3>
+<span class="blog-img-wrapper">
+<img style="width: 200px;" alt="Seria OM mała pojemność" src="/assets/images/katalog_produktow/przeplywomierze/owalno-zebate/seria-OM-mala-pojemnosc.jpg">
 
+</span>
+<p class="separator">
+<a class="more-link" href="/p/przeplywomierze/owalno-zebate/seria-OM-mala-pojemnosc/">
+<span class="button-clear">ZOBACZ WIĘCEJ</span>
+</a>
+</p>
+
+
+<h3>Seria OM średnia pojemność</h3>
+<span class="blog-img-wrapper">
+<img style="width: 200px;" alt="Seria OM mała pojemność" src="/assets/images/katalog_produktow/przeplywomierze/owalno-zebate/seria-OM-srednia-pojemnosc.jpg">
+
+</span>
+<p class="separator">
+<a class="more-link" href="/p/przeplywomierze/owalno-zebate/seria-OM-srednia-pojemnosc/">
+<span class="button-clear">ZOBACZ WIĘCEJ</span>
+</a>
+</p>
+
+
+<h3>Seria OM duża pojemność</h3>
+<span class="blog-img-wrapper">
+<img style="width: 200px;" alt="Seria OM duża pojemność" src="/assets/images/katalog_produktow/przeplywomierze/owalno-zebate/seria-OM-duza-pojemnosc.jpg">
+
+</span>
+<p class="separator">
+<a class="more-link" href="/p/przeplywomierze/owalno-zebate/seria-OM-duza-pojemnosc/">
+<span class="button-clear">ZOBACZ WIĘCEJ</span>
+</a>
+</p>
+
+
+<h3>Seria OM licznik mechaniczny</h3>
+<span class="blog-img-wrapper">
+<img style="width: 200px;" alt="Seria OM licznik mechaniczny" src="/assets/images/katalog_produktow/przeplywomierze/owalno-zebate/seria-OM-licznik-mechaniczny.jpg">
+
+</span>
+<p class="separator">
+<a class="more-link" href="/p/przeplywomierze/owalno-zebate/seria-OM-przeplywomierz-mechaniczny/">
+<span class="button-clear">ZOBACZ WIĘCEJ</span>
+</a>
+</p>
+
+
+<h3>Seria OM licznik chemiczny</h3>
+<span class="blog-img-wrapper">
+<img style="width: 200px;" alt="Seria OM licznik chemiczny" src="/assets/images/katalog_produktow/przeplywomierze/owalno-zebate/seria-OM-licznik-chemiczny.jpg">
+
+</span>
+<p class="separator">
+<a class="more-link" href="/p/przeplywomierze/owalno-zebate/seria-OM-przeplywomierz-chemiczny/">
+<span class="button-clear">ZOBACZ WIĘCEJ</span>
+</a>
+</p>
+
+
+<h3>Seria EGM przepływomierz elektroniczny</h3>
+<span class="blog-img-wrapper">
+<img style="width: 200px;" alt="Seria EGM przeplywomierz elektroniczny" src="/assets/images/katalog_produktow/przeplywomierze/owalno-zebate/seria-EGM-przeplywomierz-elektroniczny.jpg">
+
+</span>
+<p class="separator">
+<a class="more-link" href="/p/przeplywomierze/owalno-zebate/seria-EGM-przeplywomierz-elektroniczny/">
+<span class="button-clear">ZOBACZ WIĘCEJ</span>
+</a>
+</p>
+
+
+<h3>Seria D przepływomierz do oleju napędowego</h3>
+<span class="blog-img-wrapper">
+<img style="width: 200px;" alt="Seria D przeplywomierz do oleju napędowego" src="/assets/images/katalog_produktow/przeplywomierze/owalno-zebate/seria-D-przeplywomierz-do-oleju-napedowego.jpg">
+
+</span>
+<p class="separator">
+<a class="more-link" href="/p/przeplywomierze/owalno-zebate/seria-D-przeplywomierz-do-oleju-napedowego/">
+<span class="button-clear">ZOBACZ WIĘCEJ</span>
+</a>
+</p>
+
+
+<h3>Kompaktowy kolektor wtrysku z dodatkiem do bloku AIM</h3>
+<span class="blog-img-wrapper">
+<img style="width: 200px;" alt="Seria D przeplywomierz do oleju napędowego" src="/assets/images/katalog_produktow/przeplywomierze/owalno-zebate/kolektor-wtrysku.jpg">
+
+</span>
+<p class="separator">
+<a class="more-link" href="/p/przeplywomierze/owalno-zebate/kompaktowy-kolektor-wtrysku-z-dodatkiem-do-bloku-AIM/">
+<span class="button-clear">ZOBACZ WIĘCEJ</span>
+</a>
+</p>
+
+
+
+<!--
             <h3>IOG<sup>®</sup> low flow</h3>
 <span class="blog-img-wrapper">
 <img alt="Iog_low_flow" src="/assets/images/katalog_produktow/przeplywomierze/owalno-zebate/iog_low_flow.jpg">
@@ -198,7 +301,7 @@ Przepływomierz  liniowy  UH  przeznaczony  jest  do  użycia w  przemyśle moto
 </a>
 
 </p>
-
+-->
           </div>
         </div>
       </div>
@@ -211,6 +314,15 @@ Przepływomierz  liniowy  UH  przeznaczony  jest  do  użycia w  przemyśle moto
 <li class="category"><a href="/p/przeplywomierze/owalno-zebate">Owalno-zębate</a></li>
 <div class="light-widget">
 <ul class="products">
+  <li class="product"><a href="/p/przeplywomierze/owalno-zebate/seria-OM-mala-pojemnosc/">OM mała pojemność</a></li>
+  <li class="product"><a href="/p/przeplywomierze/owalno-zebate/seria-OM-srednia-pojemnosc/">OM średnia pojemność</a></li>
+  <li class="product"><a href="/p/przeplywomierze/owalno-zebate/seria-OM-duza-pojemnosc/">OM duża pojemność</a></li>
+  <li class="product"><a href="/p/przeplywomierze/owalno-zebate/seria-OM-przeplywomierz-mechaniczny/">OM przepływomierz mechaniczny</a></li>
+  <li class="product"><a href="/p/przeplywomierze/owalno-zebate/seria-OM-przeplywomierz-chemiczny/">OM przepływomierz chemiczny</a></li>
+  <li class="product"><a href="/p/przeplywomierze/owalno-zebate/seria-EGM-przeplywomierz-elektroniczny/">EGM przepływomierz elektroniczny</a></li>
+  <li class="product"><a href="/p/przeplywomierze/owalno-zebate/seria-D-przeplywomierz-do-oleju-napedowego/">D przepływomierz do oleju napędowego</a></li>
+  <li class="product"><a href="/p/przeplywomierze/owalno-zebate/kompaktowy-kolektor-wtrysku-z-dodatkiem-do-bloku-AIM/">Kompaktowy kolektor wtrysku</a></li>
+  <!--
 <li class="product"><a href="/p/przeplywomierze/owalno-zebate/iog-sup-sup-low-flow">IOG<sup>®</sup> low flow</a></li>
 <li class="product"><a href="/p/przeplywomierze/owalno-zebate/iog-sup-sup">IOG<sup>®</sup></a></li>
 <li class="product"><a href="/p/przeplywomierze/owalno-zebate/lm-og">LM OG</a></li>
@@ -221,6 +333,7 @@ Przepływomierz  liniowy  UH  przeznaczony  jest  do  użycia w  przemyśle moto
 <li class="product"><a href="/p/przeplywomierze/owalno-zebate/lm-og-ti-pvc">LM-OG-TI-PVC</a></li>
 <li class="product"><a href="/p/przeplywomierze/owalno-zebate/lm-og-ti-lm-og-ti-hf">LM-OG-TI/LM-OG-TI-HF</a></li>
 <li class="product"><a href="/p/przeplywomierze/owalno-zebate/uh">UH</a></li>
+-->
 </ul>
 </div>
 <li class="category"><a href="/p/przeplywomierze/nutacyjne-dyskowe">Nutacyjne-dyskowe</a></li>
