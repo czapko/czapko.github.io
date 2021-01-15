@@ -22,11 +22,12 @@ permalink: /p/przeplywomierze/ultradzwiekowe/
             <div class="image-right">
             </div>
             <p>
-              Przepływomierze ultradźwiękowe Dynasonics<sup>®</sup> bazujące na zasadzie Dopplera i&nbsp;różnicy czasu przejścia spełniły wymagania w&nbsp;tysiącach unikalnych aplikacji w różnych gałęziach gospodarki takich jak pomiary cieczy w rurociągach pod ciśnieniem, w kanałach zamkniętych i otwartych, w oczyszczalniach ścieków, przy pomiarze olejów i paliw, wydobyciu metanu z&nbsp;pokładów węgla, wytwarzaniu energii, przemyśle półprzewodnikowym, HVAC i w wielu innych.
+              Ultradźwiękowe przepływomierze liniowe to niedrogie przyrządy do pomiaru wszystkich cieczy przewodzących prąd elektryczny jak i nieprzewodzących. Fale ultradźwiękowe mogą być używane do niezawodnego pomiaru przepływu objętościowego szerokiego zakresu jednorodnych cieczy, prawie niezależnie od ciśnienia, temperatury czy lepkości.
             </p>
-            
+            <h3>Zasada pomiaru</h3>
+            <p>Przepływomierze ultradźwiękowe działają na zasadzie pomiaru różnicy czasu przejścia fal ultradźwiękowych poruszających się w kierunku i przeciwnie do kierunku przepływu cieczy (pomiar prędkości za pomocą różnicy czasu przejścia). Pomiar prędkości opiera się na pomiarze czasu przejścia sygnałów ultradźwiękowych między dwoma czujnikami (z prądem <i>downstream</i> i pod prąd <i>upstream</i>). Czas przejścia sygnału T<sub>d</sub> w kierunku przepływu jest krótszy niż czas przejścia sygnału w kierunku przeciwnym do kierunku przepływu T<sub>u</sub>. Różnica między tymi dwoma czasami przejścia jest proporcjonalna do średniej prędkości przepływu wzdłuż ścieżki pomiarowej.</p>
+
             <p class="sheet">
-              <a href="/assets/documents/UFoverview.pdf">Karta katalogowa</a>
 
             </p>
             <br>
@@ -35,12 +36,26 @@ permalink: /p/przeplywomierze/ultradzwiekowe/
 KATEGORIA:
 Przepływomierze
 </li>
+<!--
 <li>
 PRODUKTOW:
-7
+1
 </li>
+-->
 </ul>
 
+<h3>Wersja QSE</h3>
+<span class="blog-img-wrapper">
+<img alt="Do_zywnosci" style="width: 200px;" src="/assets/images/katalog_produktow/przeplywomierze/ultradzwiekowe/qs200-insertion.jpg">
+
+</span>
+<p class="separator">
+<a class="more-link" href="/p/przeplywomierze/ultradzwiekowe/qs200-insertion/">
+<span class="button-clear">ZOBACZ WIĘCEJ</span>
+</a>
+
+</p>
+<!--
             <h3>Koryto spiętrzające </h3>
 <span class="blog-img-wrapper">
 <img alt="Ks" src="/assets/images/katalog_produktow/przeplywomierze/ultradzwiekowe/KS.jpg">
@@ -139,7 +154,7 @@ iSonic 3000 to ultradźwiękowy przepływomierz przeznaczony do pomiaru przepły
 </a>
 
 </p>
-
+-->
           </div>
         </div>
       </div>
@@ -154,6 +169,9 @@ iSonic 3000 to ultradźwiękowy przepływomierz przeznaczony do pomiaru przepły
 <li class="category"><a href="/p/przeplywomierze/ultradzwiekowe">Ultradźwiękowe</a></li>
 <div class="light-widget">
 <ul class="products">
+  <li class="product"><a href="/p/przeplywomierze/ultradzwiekowe/qs200-insertion">QS200 Insertion
+</a></li>
+  <!--
 <li class="product"><a href="/p/przeplywomierze/ultradzwiekowe/koryto-spietrzajace">Koryto spiętrzające </a></li>
 <li class="product"><a href="/p/przeplywomierze/ultradzwiekowe/dxn">DXN</a></li>
 <li class="product"><a href="/p/przeplywomierze/ultradzwiekowe/tfx-ultra-sup-sup">TFX Ultra<sup>®</sup></a></li>
@@ -161,14 +179,18 @@ iSonic 3000 to ultradźwiękowy przepływomierz przeznaczony do pomiaru przepły
 <li class="product"><a href="/p/przeplywomierze/ultradzwiekowe/ufx">UFX</a></li>
 <li class="product"><a href="/p/przeplywomierze/ultradzwiekowe/multysonic-8000">MultySonic 8000</a></li>
 <li class="product"><a href="/p/przeplywomierze/ultradzwiekowe/isonic-3000">iSonic 3000</a></li>
+-->
 </ul>
 </div>
 <li class="category"><a href="/p/przeplywomierze/wirnikowe">Wirnikowe</a></li>
+<!--
 <li class="category"><a href="/p/przeplywomierze/wirowe">Wirowe</a></li>
 <li class="category"><a href="/p/przeplywomierze/o-zmiennym-przekroju">O zmiennym przekroju</a></li>
 <li class="category"><a href="/p/przeplywomierze/dla-hydrauliki-silowej">Dla hydrauliki siłowej</a></li>
 <li class="category"><a href="/p/przeplywomierze/zwezkowe-i-roznicowo-cisnieniowe">Zwężkowe i różnicowo-ciśnieniowe</a></li>
+-->
 </ul>
+<!--
 <h3>Zawory regulacyjne</h3>
 <ul class="subcategories">
 <li class="category"><a href="/p/zawory-regulacyjne/male-zawory-regulacyjne">Małe zawory regulacyjne</a></li>
@@ -179,6 +201,7 @@ iSonic 3000 to ultradźwiękowy przepływomierz przeznaczony do pomiaru przepły
 <ul class="subcategories">
 <li class="category"><a href="/p/api-industry/czujniki-przemyslowe">Czujniki przemysłowe</a></li>
 </ul>
+-->
 </div>
 
         

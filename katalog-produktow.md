@@ -20,7 +20,7 @@ permalink: /p/
 <div class="img-wrapper">
 <a href="/p/przeplywomierze/elektromagnetyczne">
 Przepływomierze
-<img src="/assets/images/katalog_produktow/przeplywomierze_elektromagnetyczne_tlo.jpg">
+<img style="width: 230px;" src="/assets/images/katalog_produktow/przeplywomierze/elektromagnetyczne/qse.jpg">
 </a>
 </div>
 </li>
@@ -56,7 +56,7 @@ Przepływomierze
 <div class="img-wrapper">
 <a href="/p/przeplywomierze/ultradzwiekowe">
 Przepływomierze
-<img src="/assets/images/katalog_produktow/przeplywomierze_ultradzwiekowe_tlo.jpg">
+<img style="width: 230px;" src="/assets/images/katalog_produktow/przeplywomierze/ultradzwiekowe/qs200-insertion.jpg">
 </a>
 </div>
 </li>
