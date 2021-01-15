@@ -339,11 +339,14 @@ Przepływomierz  liniowy  UH  przeznaczony  jest  do  użycia w  przemyśle moto
 <li class="category"><a href="/p/przeplywomierze/nutacyjne-dyskowe">Nutacyjne-dyskowe</a></li>
 <li class="category"><a href="/p/przeplywomierze/ultradzwiekowe">Ultradźwiękowe</a></li>
 <li class="category"><a href="/p/przeplywomierze/wirnikowe">Wirnikowe</a></li>
+<!--
 <li class="category"><a href="/p/przeplywomierze/wirowe">Wirowe</a></li>
 <li class="category"><a href="/p/przeplywomierze/o-zmiennym-przekroju">O zmiennym przekroju</a></li>
 <li class="category"><a href="/p/przeplywomierze/dla-hydrauliki-silowej">Dla hydrauliki siłowej</a></li>
 <li class="category"><a href="/p/przeplywomierze/zwezkowe-i-roznicowo-cisnieniowe">Zwężkowe i różnicowo-ciśnieniowe</a></li>
+-->
 </ul>
+<!--
 <h3>Zawory regulacyjne</h3>
 <ul class="subcategories">
 <li class="category"><a href="/p/zawory-regulacyjne/male-zawory-regulacyjne">Małe zawory regulacyjne</a></li>
@@ -354,6 +357,7 @@ Przepływomierz  liniowy  UH  przeznaczony  jest  do  użycia w  przemyśle moto
 <ul class="subcategories">
 <li class="category"><a href="/p/api-industry/czujniki-przemyslowe">Czujniki przemysłowe</a></li>
 </ul>
+-->
 </div>
 
         

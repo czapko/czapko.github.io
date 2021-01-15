@@ -22,11 +22,14 @@ permalink: /p/przeplywomierze/turbinowe/
             <div class="image-right">
             </div>
             <p>
-              Przepływomierze turbinowe są przeznaczone do aplikacji z cieczami o niskiej lepkości i nieagresywnych cieczy i gazów.
+              Przepływomierze turbinowe to precyzyjne i ekonomiczne przyrządy pomiarowe do pomiaru cieczy i gazów o niskiej i średniej lepkości. Solidna zasada pomiaru umożliwia pomiar przepływu szerokiej gamy czystych cieczy. Wersje z tworzywa sztucznego są odpowiednie dla większości cieczy na bazie wody, a wersje ze stali nierdzewnej do cieczy korozyjnych. Mierniki aluminiowe przeznaczone są do paliw, olejów opałowych i pomiaru dodatków. Ponadto można mierzyć gazy, takie jak argon.
+            </p>
+            <h3>Zasada pomiaru</h3>
+            <p>
+              Medium przepływające przez miernik oddziałuje na łopatki turbiny, które mogą swobodnie obracać się wokół osi w linii środkowej obudowy turbiny. Kątowa (prędkość obrotowa) wirnika turbiny jest wprost proporcjonalna do prędkości medium przepływającego przez turbinę. Impulsy są liniowe w stosunku do przepływu i są pobierane z jednego lub większej liczby czujników elektrycznych zamontowanych na obudowie urządzenia pomiarowego.
             </p>
             
             <p class="sheet">
-              <a href="/assets/documents/TUR_TUR_UB_02_0525.pdf">Karta katalogowa</a>
 
             </p>
             <br>
@@ -35,12 +38,78 @@ permalink: /p/przeplywomierze/turbinowe/
 KATEGORIA:
 Przepływomierze
 </li>
+<!--
 <li>
 PRODUKTOW:
 14
 </li>
+-->
 </ul>
 
+
+<h3>Seria A1</h3>
+<span class="blog-img-wrapper">
+<img style="width: 230px;" alt="Seria A1" src="/assets/images/katalog_produktow/przeplywomierze/turbinowe/seria-A1.jpg">
+</span>
+<p class="separator">
+<a class="more-link" href="/p/przeplywomierze/turbinowe/seria-A1">
+<span class="button-clear">ZOBACZ WIĘCEJ</span>
+</a>
+</p>
+
+<h3>Seria G hygieniczne</h3>
+<span class="blog-img-wrapper">
+<img style="width: 230px;" alt="Seria G hygieniczne" src="/assets/images/katalog_produktow/przeplywomierze/turbinowe/seria-G-hygieniczne.jpg">
+</span>
+<p class="separator">
+<a class="more-link" href="/p/przeplywomierze/turbinowe/seria-G-hygieniczne/">
+<span class="button-clear">ZOBACZ WIĘCEJ</span>
+</a>
+</p>
+
+<h3>Seria TM</h3>
+<span class="blog-img-wrapper">
+<img style="width: 230px;" alt="Seria TM" src="/assets/images/katalog_produktow/przeplywomierze/turbinowe/seria-TM.jpg">
+</span>
+<p class="separator">
+<a class="more-link" href="/p/przeplywomierze/turbinowe/seria-TM/">
+<span class="button-clear">ZOBACZ WIĘCEJ</span>
+</a>
+</p>
+
+<h3>Seria G</h3>
+<span class="blog-img-wrapper">
+<img style="width: 230px;" alt="Seria G" src="/assets/images/katalog_produktow/przeplywomierze/turbinowe/seria-G.jpg">
+</span>
+<p class="separator">
+<a class="more-link" href="/p/przeplywomierze/turbinowe/seria-G/">
+<span class="button-clear">ZOBACZ WIĘCEJ</span>
+</a>
+</p>
+
+<h3>Seria TP</h3>
+<span class="blog-img-wrapper">
+<img style="width: 230px;" alt="Seria G" src="/assets/images/katalog_produktow/przeplywomierze/turbinowe/seria-TP.jpg">
+</span>
+<p class="separator">
+<a class="more-link" href="/p/przeplywomierze/turbinowe/seria-TP/">
+<span class="button-clear">ZOBACZ WIĘCEJ</span>
+</a>
+</p>
+
+
+<h3>Seria G2</h3>
+<span class="blog-img-wrapper">
+<img style="width: 230px;" alt="Seria G2" src="/assets/images/katalog_produktow/przeplywomierze/turbinowe/seria-G2.jpg">
+</span>
+<p class="separator">
+<a class="more-link" href="/p/przeplywomierze/turbinowe/seria-G2/">
+<span class="button-clear">ZOBACZ WIĘCEJ</span>
+</a>
+</p>
+
+
+<!--
             <h3>Cox</h3>
 <span class="blog-img-wrapper">
 <img alt="Cox" src="/assets/images/katalog_produktow/przeplywomierze/turbinowe/Cox.jpg">
@@ -238,7 +307,9 @@ Przepływomierze o&nbsp;wysokiej dokładności szeroko stosowane w pomiarach prz
 
 </p>
 
-          </li></ul></div>
+          </li></ul>
+        -->
+          </div>
         </div>
       </div>
       <div class="widget light-widget sidebar-right" id="sidebar">
@@ -249,6 +320,13 @@ Przepływomierze o&nbsp;wysokiej dokładności szeroko stosowane w pomiarach prz
 <li class="category"><a href="/p/przeplywomierze/turbinowe">Turbinowe</a></li>
 <div class="light-widget">
 <ul class="products">
+  <li class="product"><a href="/p/przeplywomierze/turbinowe/seria-A1">Seria A1</a></li>
+  <li class="product"><a href="/p/przeplywomierze/turbinowe/seria-G-hygieniczne">Seria G hygieniczne</a></li>
+  <li class="product"><a href="/p/przeplywomierze/turbinowe/seria-TM">Seria TM</a></li>
+  <li class="product"><a href="/p/przeplywomierze/turbinowe/seria-G">Seria G</a></li>
+  <li class="product"><a href="/p/przeplywomierze/turbinowe/seria-TP">Seria TP</a></li>
+  <li class="product"><a href="/p/przeplywomierze/turbinowe/seria-G2">Seria G2</a></li>
+  <!--
 <li class="product"><a href="/p/przeplywomierze/turbinowe/cox">Cox</a></li>
 <li class="product"><a href="/p/przeplywomierze/turbinowe/turbo-meter">Turbo Meter</a></li>
 <li class="product"><a href="/p/przeplywomierze/turbinowe/blancett-sup-sup-1100">Blancett<sup>®</sup> 1100</a></li>
@@ -263,17 +341,21 @@ Przepływomierze o&nbsp;wysokiej dokładności szeroko stosowane w pomiarach prz
 <li class="product"><a href="/p/przeplywomierze/turbinowe/vision-1000">VISION 1000</a></li>
 <li class="product"><a href="/p/przeplywomierze/turbinowe/vision-2006-2008">VISION 2006 2008</a></li>
 <li class="product"><a href="/p/przeplywomierze/turbinowe/seria-loflo">Seria LoFlo</a></li>
+-->
 </ul>
 </div>
 <li class="category"><a href="/p/przeplywomierze/owalno-zebate">Owalno-zębate</a></li>
 <li class="category"><a href="/p/przeplywomierze/nutacyjne-dyskowe">Nutacyjne-dyskowe</a></li>
 <li class="category"><a href="/p/przeplywomierze/ultradzwiekowe">Ultradźwiękowe</a></li>
 <li class="category"><a href="/p/przeplywomierze/wirnikowe">Wirnikowe</a></li>
+<!--
 <li class="category"><a href="/p/przeplywomierze/wirowe">Wirowe</a></li>
 <li class="category"><a href="/p/przeplywomierze/o-zmiennym-przekroju">O zmiennym przekroju</a></li>
 <li class="category"><a href="/p/przeplywomierze/dla-hydrauliki-silowej">Dla hydrauliki siłowej</a></li>
 <li class="category"><a href="/p/przeplywomierze/zwezkowe-i-roznicowo-cisnieniowe">Zwężkowe i różnicowo-ciśnieniowe</a></li>
+-->
 </ul>
+<!--
 <h3>Zawory regulacyjne</h3>
 <ul class="subcategories">
 <li class="category"><a href="/p/zawory-regulacyjne/male-zawory-regulacyjne">Małe zawory regulacyjne</a></li>
@@ -285,7 +367,7 @@ Przepływomierze o&nbsp;wysokiej dokładności szeroko stosowane w pomiarach prz
 <li class="category"><a href="/p/api-industry/czujniki-przemyslowe">Czujniki przemysłowe</a></li>
 </ul>
 </div>
-
+-->
         
       </div>
     </div>
