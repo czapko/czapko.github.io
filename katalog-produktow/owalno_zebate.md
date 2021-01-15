@@ -102,7 +102,7 @@ PRODUKTOW:
 
 <h3>Seria OM licznik mechaniczny</h3>
 <span class="blog-img-wrapper">
-<img style="width: 200px;" alt="Seria OM licznik mechaniczny" src="/assets/images/katalog_produktow/przeplywomierze/owalno-zebate/seria-OM-licznik-mechaniczny.jpg">
+<img style="width: 200px;" alt="Seria OM licznik mechaniczny" src="/assets/images/katalog_produktow/przeplywomierze/owalno-zebate/seria-OM-przeplywomierz-mechaniczny.jpg">
 
 </span>
 <p class="separator">
@@ -114,7 +114,7 @@ PRODUKTOW:
 
 <h3>Seria OM licznik chemiczny</h3>
 <span class="blog-img-wrapper">
-<img style="width: 200px;" alt="Seria OM licznik chemiczny" src="/assets/images/katalog_produktow/przeplywomierze/owalno-zebate/seria-OM-licznik-chemiczny.jpg">
+<img style="width: 200px;" alt="Seria OM licznik chemiczny" src="/assets/images/katalog_produktow/przeplywomierze/owalno-zebate/seria-OM-przeplywomierz-chemiczny.jpg">
 
 </span>
 <p class="separator">
