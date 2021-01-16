@@ -47,22 +47,14 @@ permalink: /p/przeplywomierze/wirowe/rng/
 <li class="category"><a href="/p/przeplywomierze/nutacyjne-dyskowe">Nutacyjne-dyskowe</a></li>
 <li class="category"><a href="/p/przeplywomierze/ultradzwiekowe">Ultradźwiękowe</a></li>
 <li class="category"><a href="/p/przeplywomierze/wirnikowe">Wirnikowe</a></li>
+<!--
 <li class="category"><a href="/p/przeplywomierze/wirowe">Wirowe</a></li>
-<div class="light-widget">
-<ul class="products">
-<li class="product"><a href="/p/przeplywomierze/wirowe/racine-sup-sup-vortex">Racine<sup>®</sup> Vortex</a></li>
-<li class="product"><a href="/p/przeplywomierze/wirowe/rng">RNG</a></li>
-<li class="product"><a href="/p/przeplywomierze/wirowe/rnl">RNL</a></li>
-<li class="product"><a href="/p/przeplywomierze/wirowe/rns">RNS</a></li>
-<li class="product"><a href="/p/przeplywomierze/wirowe/rws">RWS</a></li>
-<li class="product"><a href="/p/przeplywomierze/wirowe/rvl">RVL</a></li>
-<li class="product"><a href="/p/przeplywomierze/wirowe/rwg-i-rwbg">RWG i RWBG</a></li>
-</ul>
-</div>
 <li class="category"><a href="/p/przeplywomierze/o-zmiennym-przekroju">O zmiennym przekroju</a></li>
 <li class="category"><a href="/p/przeplywomierze/dla-hydrauliki-silowej">Dla hydrauliki siłowej</a></li>
 <li class="category"><a href="/p/przeplywomierze/zwezkowe-i-roznicowo-cisnieniowe">Zwężkowe i różnicowo-ciśnieniowe</a></li>
+-->
 </ul>
+<!--
 <h3>Zawory regulacyjne</h3>
 <ul class="subcategories">
 <li class="category"><a href="/p/zawory-regulacyjne/male-zawory-regulacyjne">Małe zawory regulacyjne</a></li>
@@ -72,8 +64,22 @@ permalink: /p/przeplywomierze/wirowe/rng/
 <h3>API Industry</h3>
 <ul class="subcategories">
 <li class="category"><a href="/p/api-industry/czujniki-przemyslowe">Czujniki przemysłowe</a></li>
+<div class="light-widget">
+<ul class="products">
+<li class="product"><a href="/p/api-industry/czujniki-przemyslowe/uts-ultradzwiekowy-sygnalizator-poziomu">UTS™ - Ultradźwiękowy sygnalizator poziomu</a></li>
+<li class="product"><a href="/p/api-industry/czujniki-przemyslowe/tla-alarmowy-czujnik-poziomu">TLA™  - Alarmowy czujnik poziomu</a></li>
+<li class="product"><a href="/p/api-industry/czujniki-przemyslowe/tgd-czujnik-poziomu-cieczy-temperatury-cisnienia-i-gestosci">TGD™ - Czujnik poziomu cieczy, temperatury, ciśnienia i gęstości</a></li>
+<li class="product"><a href="/p/api-industry/czujniki-przemyslowe/tgd-l-pomiar-poziomu">TGD-L™ - Pomiar poziomu</a></li>
+<li class="product"><a href="/p/api-industry/czujniki-przemyslowe/tgd-t-pomiar-temperatury">TGD-T™ - Pomiar temperatury</a></li>
+<li class="product"><a href="/p/api-industry/czujniki-przemyslowe/tgd-s-pomiar-gestosci">TGD-S™ - Pomiar gęstości</a></li>
+<li class="product"><a href="/p/api-industry/czujniki-przemyslowe/upt-uniwersalny-przetwornik-cisnienia">UPT™ - Uniwersalny przetwornik ciśnienia</a></li>
+<li class="product"><a href="/p/api-industry/czujniki-przemyslowe/utt-uniwersalny-przetwornik-temperatury">UTT™ - Uniwersalny przetwornik temperatury</a></li>
+<li class="product"><a href="/p/api-industry/czujniki-przemyslowe/pi-485-przetwornik-hart-sup-sup">PI-485™ - Przetwornik HART<sup>®</sup></a></li>
 </ul>
 </div>
+</ul>
+</div>
+-->
 
       </div>
     </div>

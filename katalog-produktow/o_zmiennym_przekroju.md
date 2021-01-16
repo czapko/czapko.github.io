@@ -236,28 +236,14 @@ Przepływomierze serii EZ-View<sup>®</sup> to mocne, ekonomiczne wskaźniki o b
 <li class="category"><a href="/p/przeplywomierze/nutacyjne-dyskowe">Nutacyjne-dyskowe</a></li>
 <li class="category"><a href="/p/przeplywomierze/ultradzwiekowe">Ultradźwiękowe</a></li>
 <li class="category"><a href="/p/przeplywomierze/wirnikowe">Wirnikowe</a></li>
+<!--
 <li class="category"><a href="/p/przeplywomierze/wirowe">Wirowe</a></li>
 <li class="category"><a href="/p/przeplywomierze/o-zmiennym-przekroju">O zmiennym przekroju</a></li>
-<div class="light-widget">
-<ul class="products">
-<li class="product"><a href="/p/przeplywomierze/o-zmiennym-przekroju/zestawy-testowe-do-powietrza-sprezonych-gazow">Zestawy testowe do powietrza/sprężonych gazów</a></li>
-<li class="product"><a href="/p/przeplywomierze/o-zmiennym-przekroju/przeplywomierze-do-powietrza-sprezonych-gazow">Przepływomierze do powietrza/sprężonych gazów</a></li>
-<li class="product"><a href="/p/przeplywomierze/o-zmiennym-przekroju/przeplywomierze-do-powietrza-zracych-i-agresywnych-gazow">Przepływomierze do powietrza/żrących i agresywnych gazów</a></li>
-<li class="product"><a href="/p/przeplywomierze/o-zmiennym-przekroju/przeplywomierze-do-wody-i-innych-cieczy">Przepływomierze do wody i innych cieczy</a></li>
-<li class="product"><a href="/p/przeplywomierze/o-zmiennym-przekroju/przeplywomierze-do-cieczy-opartych-na-bazie-wody">Przepływomierze do cieczy opartych na bazie wody</a></li>
-<li class="product"><a href="/p/przeplywomierze/o-zmiennym-przekroju/zestawy-testowe-do-cieczy-opartych-na-bazie-wody">Zestawy testowe do cieczy opartych na bazie wody</a></li>
-<li class="product"><a href="/p/przeplywomierze/o-zmiennym-przekroju/przeplywomierze-do-cieczy-opartych-na-bazie-wody-o-wysokiej-temperaturze">Przepływomierze do cieczy opartych na bazie wody o wysokiej temperaturze</a></li>
-<li class="product"><a href="/p/przeplywomierze/o-zmiennym-przekroju/przeplywomierze-do-estrow-fosforanowych">Przepływomierze do estrów fosforanowych</a></li>
-<li class="product"><a href="/p/przeplywomierze/o-zmiennym-przekroju/przeplywomierze-do-cieczy-opartych-na-bazie-ropy-naftowej">Przepływomierze do cieczy opartych na bazie ropy naftowej</a></li>
-<li class="product"><a href="/p/przeplywomierze/o-zmiennym-przekroju/przeplywomierze-do-oleju-api-zracych-i-agresywnych-cieczy">Przepływomierze do oleju API / żrących i agresywnych cieczy</a></li>
-<li class="product"><a href="/p/przeplywomierze/o-zmiennym-przekroju/transmiter-przeplywu-typ-mr">Transmiter przepływu typ MR</a></li>
-<li class="product"><a href="/p/przeplywomierze/o-zmiennym-przekroju/sygnalizator-przeplywu-flow-alert">Sygnalizator przepływu Flow-Alert™</a></li>
-<li class="product"><a href="/p/przeplywomierze/o-zmiennym-przekroju/przeplywomierze-ez-view-sup-sup">Przepływomierze EZ-View<sup>®</sup></a></li>
-</ul>
-</div>
 <li class="category"><a href="/p/przeplywomierze/dla-hydrauliki-silowej">Dla hydrauliki siłowej</a></li>
 <li class="category"><a href="/p/przeplywomierze/zwezkowe-i-roznicowo-cisnieniowe">Zwężkowe i różnicowo-ciśnieniowe</a></li>
+-->
 </ul>
+<!--
 <h3>Zawory regulacyjne</h3>
 <ul class="subcategories">
 <li class="category"><a href="/p/zawory-regulacyjne/male-zawory-regulacyjne">Małe zawory regulacyjne</a></li>
@@ -267,9 +253,22 @@ Przepływomierze serii EZ-View<sup>®</sup> to mocne, ekonomiczne wskaźniki o b
 <h3>API Industry</h3>
 <ul class="subcategories">
 <li class="category"><a href="/p/api-industry/czujniki-przemyslowe">Czujniki przemysłowe</a></li>
+<div class="light-widget">
+<ul class="products">
+<li class="product"><a href="/p/api-industry/czujniki-przemyslowe/uts-ultradzwiekowy-sygnalizator-poziomu">UTS™ - Ultradźwiękowy sygnalizator poziomu</a></li>
+<li class="product"><a href="/p/api-industry/czujniki-przemyslowe/tla-alarmowy-czujnik-poziomu">TLA™  - Alarmowy czujnik poziomu</a></li>
+<li class="product"><a href="/p/api-industry/czujniki-przemyslowe/tgd-czujnik-poziomu-cieczy-temperatury-cisnienia-i-gestosci">TGD™ - Czujnik poziomu cieczy, temperatury, ciśnienia i gęstości</a></li>
+<li class="product"><a href="/p/api-industry/czujniki-przemyslowe/tgd-l-pomiar-poziomu">TGD-L™ - Pomiar poziomu</a></li>
+<li class="product"><a href="/p/api-industry/czujniki-przemyslowe/tgd-t-pomiar-temperatury">TGD-T™ - Pomiar temperatury</a></li>
+<li class="product"><a href="/p/api-industry/czujniki-przemyslowe/tgd-s-pomiar-gestosci">TGD-S™ - Pomiar gęstości</a></li>
+<li class="product"><a href="/p/api-industry/czujniki-przemyslowe/upt-uniwersalny-przetwornik-cisnienia">UPT™ - Uniwersalny przetwornik ciśnienia</a></li>
+<li class="product"><a href="/p/api-industry/czujniki-przemyslowe/utt-uniwersalny-przetwornik-temperatury">UTT™ - Uniwersalny przetwornik temperatury</a></li>
+<li class="product"><a href="/p/api-industry/czujniki-przemyslowe/pi-485-przetwornik-hart-sup-sup">PI-485™ - Przetwornik HART<sup>®</sup></a></li>
 </ul>
 </div>
-
+</ul>
+</div>
+-->
         
       </div>
     </div>

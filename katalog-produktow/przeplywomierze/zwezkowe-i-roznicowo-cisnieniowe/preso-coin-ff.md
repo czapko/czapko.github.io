@@ -46,34 +46,14 @@ permalink: /p/przeplywomierze/zwezkowe-i-roznicowo-cisnieniowe/preso-coin-ff/
 <li class="category"><a href="/p/przeplywomierze/nutacyjne-dyskowe">Nutacyjne-dyskowe</a></li>
 <li class="category"><a href="/p/przeplywomierze/ultradzwiekowe">Ultradźwiękowe</a></li>
 <li class="category"><a href="/p/przeplywomierze/wirnikowe">Wirnikowe</a></li>
+<!--
 <li class="category"><a href="/p/przeplywomierze/wirowe">Wirowe</a></li>
 <li class="category"><a href="/p/przeplywomierze/o-zmiennym-przekroju">O zmiennym przekroju</a></li>
 <li class="category"><a href="/p/przeplywomierze/dla-hydrauliki-silowej">Dla hydrauliki siłowej</a></li>
 <li class="category"><a href="/p/przeplywomierze/zwezkowe-i-roznicowo-cisnieniowe">Zwężkowe i różnicowo-ciśnieniowe</a></li>
-<div class="light-widget">
-<ul class="products">
-<li class="product"><a href="/p/przeplywomierze/zwezkowe-i-roznicowo-cisnieniowe/preso-venturi-ssl">Preso® Venturi SSL</a></li>
-<li class="product"><a href="/p/przeplywomierze/zwezkowe-i-roznicowo-cisnieniowe/preso-venturi-ssm">Preso® Venturi SSM</a></li>
-<li class="product"><a href="/p/przeplywomierze/zwezkowe-i-roznicowo-cisnieniowe/preso-venturi-lpl">Preso® Venturi LPL</a></li>
-<li class="product"><a href="/p/przeplywomierze/zwezkowe-i-roznicowo-cisnieniowe/preso-venturi-vissl">Preso® Venturi VISSL</a></li>
-<li class="product"><a href="/p/przeplywomierze/zwezkowe-i-roznicowo-cisnieniowe/preso-venturi-vilpl">Preso® Venturi VILPL</a></li>
-<li class="product"><a href="/p/przeplywomierze/zwezkowe-i-roznicowo-cisnieniowe/preso-venturi-cv">Preso® Venturi CV</a></li>
-<li class="product"><a href="/p/przeplywomierze/zwezkowe-i-roznicowo-cisnieniowe/preso-venturi-v">Preso® Venturi V</a></li>
-<li class="product"><a href="/p/przeplywomierze/zwezkowe-i-roznicowo-cisnieniowe/preso-coin-ff">Preso® COIN ® FF</a></li>
-<li class="product"><a href="/p/przeplywomierze/zwezkowe-i-roznicowo-cisnieniowe/preso-coin-nb-nn-nw">Preso® COIN ® NB / NN / NW</a></li>
-<li class="product"><a href="/p/przeplywomierze/zwezkowe-i-roznicowo-cisnieniowe/preso-coin-chem">Preso® COIN® Chem</a></li>
-<li class="product"><a href="/p/przeplywomierze/zwezkowe-i-roznicowo-cisnieniowe/preso-transcoin">Preso® TransCOIN®</a></li>
-<li class="product"><a href="/p/przeplywomierze/zwezkowe-i-roznicowo-cisnieniowe/preso-masscoin">Preso® MassCOIN®</a></li>
-<li class="product"><a href="/p/przeplywomierze/zwezkowe-i-roznicowo-cisnieniowe/preso-ellipse-pfa">Preso®Ellipse® PFA</a></li>
-<li class="product"><a href="/p/przeplywomierze/zwezkowe-i-roznicowo-cisnieniowe/preso-ellipse-bar">Preso® Ellipse® BAR</a></li>
-<li class="product"><a href="/p/przeplywomierze/zwezkowe-i-roznicowo-cisnieniowe/preso-ellipse-bhl">Preso® Ellipse® BHL</a></li>
-<li class="product"><a href="/p/przeplywomierze/zwezkowe-i-roznicowo-cisnieniowe/preso-ellipse-ar">Preso® Ellipse® AR</a></li>
-<li class="product"><a href="/p/przeplywomierze/zwezkowe-i-roznicowo-cisnieniowe/preso-ellipse-as">Preso® Ellipse® AS</a></li>
-<li class="product"><a href="/p/przeplywomierze/zwezkowe-i-roznicowo-cisnieniowe/preso-ellipse-af">Preso® Ellipse® AF</a></li>
-<li class="product"><a href="/p/przeplywomierze/zwezkowe-i-roznicowo-cisnieniowe/preso-ellipse-asf">Preso® Ellipse® ASF</a></li>
+-->
 </ul>
-</div>
-</ul>
+<!--
 <h3>Zawory regulacyjne</h3>
 <ul class="subcategories">
 <li class="category"><a href="/p/zawory-regulacyjne/male-zawory-regulacyjne">Małe zawory regulacyjne</a></li>
@@ -83,8 +63,22 @@ permalink: /p/przeplywomierze/zwezkowe-i-roznicowo-cisnieniowe/preso-coin-ff/
 <h3>API Industry</h3>
 <ul class="subcategories">
 <li class="category"><a href="/p/api-industry/czujniki-przemyslowe">Czujniki przemysłowe</a></li>
+<div class="light-widget">
+<ul class="products">
+<li class="product"><a href="/p/api-industry/czujniki-przemyslowe/uts-ultradzwiekowy-sygnalizator-poziomu">UTS™ - Ultradźwiękowy sygnalizator poziomu</a></li>
+<li class="product"><a href="/p/api-industry/czujniki-przemyslowe/tla-alarmowy-czujnik-poziomu">TLA™  - Alarmowy czujnik poziomu</a></li>
+<li class="product"><a href="/p/api-industry/czujniki-przemyslowe/tgd-czujnik-poziomu-cieczy-temperatury-cisnienia-i-gestosci">TGD™ - Czujnik poziomu cieczy, temperatury, ciśnienia i gęstości</a></li>
+<li class="product"><a href="/p/api-industry/czujniki-przemyslowe/tgd-l-pomiar-poziomu">TGD-L™ - Pomiar poziomu</a></li>
+<li class="product"><a href="/p/api-industry/czujniki-przemyslowe/tgd-t-pomiar-temperatury">TGD-T™ - Pomiar temperatury</a></li>
+<li class="product"><a href="/p/api-industry/czujniki-przemyslowe/tgd-s-pomiar-gestosci">TGD-S™ - Pomiar gęstości</a></li>
+<li class="product"><a href="/p/api-industry/czujniki-przemyslowe/upt-uniwersalny-przetwornik-cisnienia">UPT™ - Uniwersalny przetwornik ciśnienia</a></li>
+<li class="product"><a href="/p/api-industry/czujniki-przemyslowe/utt-uniwersalny-przetwornik-temperatury">UTT™ - Uniwersalny przetwornik temperatury</a></li>
+<li class="product"><a href="/p/api-industry/czujniki-przemyslowe/pi-485-przetwornik-hart-sup-sup">PI-485™ - Przetwornik HART<sup>®</sup></a></li>
 </ul>
 </div>
+</ul>
+</div>
+-->
 
       </div>
     </div>

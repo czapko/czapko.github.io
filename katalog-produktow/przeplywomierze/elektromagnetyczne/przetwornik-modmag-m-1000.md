@@ -44,13 +44,7 @@ permalink: /p/przeplywomierze/elektromagnetyczne/przetwornik-modmag-m-1000/
 <li class="category"><a href="/p/przeplywomierze/elektromagnetyczne">Elektromagnetyczne</a></li>
 <div class="light-widget">
 <ul class="products">
-<li class="product"><a href="/p/przeplywomierze/elektromagnetyczne/detektor-typu-food-do-zywnosci">Detektor typu Food do żywności</a></li>
-<li class="product"><a href="/p/przeplywomierze/elektromagnetyczne/detektor-typu-ii">Detektor typu II</a></li>
-<li class="product"><a href="/p/przeplywomierze/elektromagnetyczne/detektor-typu-iii">Detektor typu III</a></li>
-<li class="product"><a href="/p/przeplywomierze/elektromagnetyczne/przetwornik-modmag-m-1000">Przetwornik ModMAG™ M 1000</a></li>
-<li class="product"><a href="/p/przeplywomierze/elektromagnetyczne/przetwornik-modmag-m-3000-4000">Przetwornik ModMAG™ M 3000/4000</a></li>
-<li class="product"><a href="/p/przeplywomierze/elektromagnetyczne/przetwornik-modmag-m-2000">Przetwornik ModMAG™ M 2000</a></li>
-<li class="product"><a href="/p/przeplywomierze/elektromagnetyczne/przetwornik-modmag-m-5000">Przetwornik ModMAG™ M 5000</a></li>
+<li class="product"><a href="/p/przeplywomierze/elektromagnetyczne/qse">QSE</a></li>
 </ul>
 </div>
 <li class="category"><a href="/p/przeplywomierze/turbinowe">Turbinowe</a></li>
@@ -58,20 +52,6 @@ permalink: /p/przeplywomierze/elektromagnetyczne/przetwornik-modmag-m-1000/
 <li class="category"><a href="/p/przeplywomierze/nutacyjne-dyskowe">Nutacyjne-dyskowe</a></li>
 <li class="category"><a href="/p/przeplywomierze/ultradzwiekowe">Ultradźwiękowe</a></li>
 <li class="category"><a href="/p/przeplywomierze/wirnikowe">Wirnikowe</a></li>
-<li class="category"><a href="/p/przeplywomierze/wirowe">Wirowe</a></li>
-<li class="category"><a href="/p/przeplywomierze/o-zmiennym-przekroju">O zmiennym przekroju</a></li>
-<li class="category"><a href="/p/przeplywomierze/dla-hydrauliki-silowej">Dla hydrauliki siłowej</a></li>
-<li class="category"><a href="/p/przeplywomierze/zwezkowe-i-roznicowo-cisnieniowe">Zwężkowe i różnicowo-ciśnieniowe</a></li>
-</ul>
-<h3>Zawory regulacyjne</h3>
-<ul class="subcategories">
-<li class="category"><a href="/p/zawory-regulacyjne/male-zawory-regulacyjne">Małe zawory regulacyjne</a></li>
-<li class="category"><a href="/p/zawory-regulacyjne/zawory-procesowe">Zawory procesowe</a></li>
-<li class="category"><a href="/p/zawory-regulacyjne/zawory-w-wykonaniu-higienicznym">Zawory w wykonaniu higienicznym</a></li>
-</ul>
-<h3>API Industry</h3>
-<ul class="subcategories">
-<li class="category"><a href="/p/api-industry/czujniki-przemyslowe">Czujniki przemysłowe</a></li>
 </ul>
 </div>
 

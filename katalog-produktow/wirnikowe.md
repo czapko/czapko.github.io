@@ -22,12 +22,14 @@ permalink: /p/przeplywomierze/wirnikowe/
             <div class="image-right">
             </div>
             <p>
-              Przepływomierze wirnikowe są ekonomiczną alternatywą w instalacjach nawadniających, iniekcji chemicznych, uzdatniania wody, zarządzaniem wodą, fluoryzacji, sterowania pompami, klimatyzacji (HVAC), pomiaru zużycia energii oraz w przemyśle w takich aplikacjach jak dozowanie, dodawanie dodatków, automatyzacja procesów, itp.
+              Przepływomierze wirnikowe są opłacalną alternatywą do pomiaru i monitorowania przepływów w dużych rurociągach. Prosta instalacja i niska cena to najważniejsze argumenty przemawiające za tą zasadą pomiaru.
+            </p>
+            <h3>Zasada pomiaru</h3>
+            <p>
+              Przepływ cieczy obraca wirnik. Prędkość wirnika jest bezpośrednio związana z prędkością cieczy. Wykrywane są obroty wirnika, a sygnał o fali prostokątnej o niskiej impedancji jest przesyłany przez niemagnetyczny zaczep czujnika z częstotliwością proporcjonalną do natężenia przepływu. Szybkość przekłada się na przepływ.
             </p>
             
             <p class="sheet">
-              <a href="/assets/documents/IMP___UB_02_0556_1.pdf">Karta katalogowa</a>
-
             </p>
             <br>
             <ul class="meta">
@@ -35,12 +37,28 @@ permalink: /p/przeplywomierze/wirnikowe/
 KATEGORIA:
 Przepływomierze
 </li>
+<!--
 <li>
 PRODUKTOW:
 18
 </li>
+-->
 </ul>
 
+<h3>Seria DP</h3>
+<span class="blog-img-wrapper">
+<img style="width: 230px;" alt="340n2" src="/assets/images/katalog_produktow/przeplywomierze/wirnikowe/seria-DP.jpg">
+</span>
+<span class="blog-img-wrapper">
+<img style="width: 230px;" alt="340n2" src="/assets/images/katalog_produktow/przeplywomierze/wirnikowe/seria-DP_.jpg">
+</span>
+<p class="separator">
+<a class="more-link" href="/p/przeplywomierze/wirnikowe/seria-DP/">
+<span class="button-clear">ZOBACZ WIĘCEJ</span>
+</a>
+</p>
+
+<!--
             <h3>220B</h3>
 <span class="blog-img-wrapper">
 <img alt="Imp-220-b" src="/assets/images/katalog_produktow/przeplywomierze/wirnikowe/IMP-220-B.jpg">
@@ -292,7 +310,7 @@ Seria 340 N2 BTU to ekonomiczny, kompaktowy transmiter współpracujący z syste
 </a>
 
 </p>
-
+-->
           </div>
         </div>
       </div>
@@ -308,6 +326,8 @@ Seria 340 N2 BTU to ekonomiczny, kompaktowy transmiter współpracujący z syste
 <li class="category"><a href="/p/przeplywomierze/wirnikowe">Wirnikowe</a></li>
 <div class="light-widget">
 <ul class="products">
+  <li class="product"><a href="/p/przeplywomierze/wirnikowe/seria-DP">Seria DP</a></li>
+  <!--
 <li class="product"><a href="/p/przeplywomierze/wirnikowe/220b">220B</a></li>
 <li class="product"><a href="/p/przeplywomierze/wirnikowe/220pvcs">220PVCS</a></li>
 <li class="product"><a href="/p/przeplywomierze/wirnikowe/228">228</a></li>
@@ -326,8 +346,10 @@ Seria 340 N2 BTU to ekonomiczny, kompaktowy transmiter współpracujący z syste
 <li class="product"><a href="/p/przeplywomierze/wirnikowe/transmiter-340">Transmiter 340</a></li>
 <li class="product"><a href="/p/przeplywomierze/wirnikowe/transmiter-340-lw">Transmiter 340 LW</a></li>
 <li class="product"><a href="/p/przeplywomierze/wirnikowe/transmiter-340-n2">Transmiter 340 N2</a></li>
+-->
 </ul>
 </div>
+<!--
 <li class="category"><a href="/p/przeplywomierze/wirowe">Wirowe</a></li>
 <li class="category"><a href="/p/przeplywomierze/o-zmiennym-przekroju">O zmiennym przekroju</a></li>
 <li class="category"><a href="/p/przeplywomierze/dla-hydrauliki-silowej">Dla hydrauliki siłowej</a></li>
@@ -342,9 +364,9 @@ Seria 340 N2 BTU to ekonomiczny, kompaktowy transmiter współpracujący z syste
 <h3>API Industry</h3>
 <ul class="subcategories">
 <li class="category"><a href="/p/api-industry/czujniki-przemyslowe">Czujniki przemysłowe</a></li>
+-->
 </ul>
 </div>
-
         
       </div>
     </div>

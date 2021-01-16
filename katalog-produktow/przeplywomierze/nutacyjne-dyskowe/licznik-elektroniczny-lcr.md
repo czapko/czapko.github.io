@@ -48,6 +48,8 @@ permalink: /p/przeplywomierze/nutacyjne-dyskowe/licznik-elektroniczny-lcr/
 <li class="category"><a href="/p/przeplywomierze/nutacyjne-dyskowe">Nutacyjne-dyskowe</a></li>
 <div class="light-widget">
 <ul class="products">
+  <li class="product"><a href="/p/przeplywomierze/nutacyjne-dyskowe/seria-fm">Seria FM</a></li>
+  <!--
 <li class="product"><a href="/p/przeplywomierze/nutacyjne-dyskowe/licznik-elektroniczny-lcr">Licznik elektroniczny LCR</a></li>
 <li class="product"><a href="/p/przeplywomierze/nutacyjne-dyskowe/licznik-mechaniczny-r">Licznik mechaniczny R</a></li>
 <li class="product"><a href="/p/przeplywomierze/nutacyjne-dyskowe/licznik-mechaniczny-rtr">Licznik mechaniczny RTR</a></li>
@@ -56,15 +58,19 @@ permalink: /p/przeplywomierze/nutacyjne-dyskowe/licznik-elektroniczny-lcr/
 <li class="product"><a href="/p/przeplywomierze/nutacyjne-dyskowe/impulsator-pft-2">Impulsator PFT-2</a></li>
 <li class="product"><a href="/p/przeplywomierze/nutacyjne-dyskowe/impulsator-pft-2e">Impulsator PFT-2E</a></li>
 <li class="product"><a href="/p/przeplywomierze/nutacyjne-dyskowe/przetwornik-analogowy-pft-420">Przetwornik analogowy PFT-420</a></li>
+-->
 </ul>
 </div>
 <li class="category"><a href="/p/przeplywomierze/ultradzwiekowe">Ultradźwiękowe</a></li>
 <li class="category"><a href="/p/przeplywomierze/wirnikowe">Wirnikowe</a></li>
+<!--
 <li class="category"><a href="/p/przeplywomierze/wirowe">Wirowe</a></li>
 <li class="category"><a href="/p/przeplywomierze/o-zmiennym-przekroju">O zmiennym przekroju</a></li>
 <li class="category"><a href="/p/przeplywomierze/dla-hydrauliki-silowej">Dla hydrauliki siłowej</a></li>
 <li class="category"><a href="/p/przeplywomierze/zwezkowe-i-roznicowo-cisnieniowe">Zwężkowe i różnicowo-ciśnieniowe</a></li>
+-->
 </ul>
+<!--
 <h3>Zawory regulacyjne</h3>
 <ul class="subcategories">
 <li class="category"><a href="/p/zawory-regulacyjne/male-zawory-regulacyjne">Małe zawory regulacyjne</a></li>
@@ -75,6 +81,7 @@ permalink: /p/przeplywomierze/nutacyjne-dyskowe/licznik-elektroniczny-lcr/
 <ul class="subcategories">
 <li class="category"><a href="/p/api-industry/czujniki-przemyslowe">Czujniki przemysłowe</a></li>
 </ul>
+-->
 </div>
 
       </div>

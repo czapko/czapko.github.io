@@ -46,44 +46,39 @@ permalink: /p/zawory-regulacyjne/male-zawory-regulacyjne/pozycjoner-8048/
 <li class="category"><a href="/p/przeplywomierze/nutacyjne-dyskowe">Nutacyjne-dyskowe</a></li>
 <li class="category"><a href="/p/przeplywomierze/ultradzwiekowe">Ultradźwiękowe</a></li>
 <li class="category"><a href="/p/przeplywomierze/wirnikowe">Wirnikowe</a></li>
+<!--
 <li class="category"><a href="/p/przeplywomierze/wirowe">Wirowe</a></li>
 <li class="category"><a href="/p/przeplywomierze/o-zmiennym-przekroju">O zmiennym przekroju</a></li>
 <li class="category"><a href="/p/przeplywomierze/dla-hydrauliki-silowej">Dla hydrauliki siłowej</a></li>
 <li class="category"><a href="/p/przeplywomierze/zwezkowe-i-roznicowo-cisnieniowe">Zwężkowe i różnicowo-ciśnieniowe</a></li>
+-->
 </ul>
+<!--
 <h3>Zawory regulacyjne</h3>
 <ul class="subcategories">
 <li class="category"><a href="/p/zawory-regulacyjne/male-zawory-regulacyjne">Małe zawory regulacyjne</a></li>
-<div class="light-widget">
-<ul class="products">
-<li class="product"><a href="/p/zawory-regulacyjne/male-zawory-regulacyjne/aktuator-elektryczny-ac-hh-500">Aktuator elektryczny AC-HH 500</a></li>
-<li class="product"><a href="/p/zawory-regulacyjne/male-zawory-regulacyjne/aktuator-pneumatyczny-atc">Aktuator pneumatyczny ATC </a></li>
-<li class="product"><a href="/p/zawory-regulacyjne/male-zawory-regulacyjne/aktuator-pneumatyczny-ato">Aktuator pneumatyczny ATO</a></li>
-<li class="product"><a href="/p/zawory-regulacyjne/male-zawory-regulacyjne/aktuator-pneumatyczny-tlda-ato">Aktuator pneumatyczny TLDA ATO</a></li>
-<li class="product"><a href="/p/zawory-regulacyjne/male-zawory-regulacyjne/aktuator-pneumatyczny-blra-ato">Aktuator pneumatyczny BLRA ATO </a></li>
-<li class="product"><a href="/p/zawory-regulacyjne/male-zawory-regulacyjne/pozycjoner-3730">Pozycjoner 3730</a></li>
-<li class="product"><a href="/p/zawory-regulacyjne/male-zawory-regulacyjne/pozycjoner-8048">Pozycjoner 8048</a></li>
-<li class="product"><a href="/p/zawory-regulacyjne/male-zawory-regulacyjne/pozycjoner-blra-tlda">Pozycjoner BLRA/TLDA</a></li>
-<li class="product"><a href="/p/zawory-regulacyjne/male-zawory-regulacyjne/pozycjoner-sipart-ps-2">Pozycjoner SIPART PS 2</a></li>
-<li class="product"><a href="/p/zawory-regulacyjne/male-zawory-regulacyjne/pozycjoner-sri-986">Pozycjoner SRI 986</a></li>
-<li class="product"><a href="/p/zawory-regulacyjne/male-zawory-regulacyjne/pozycjoner-tzid-c">Pozycjoner TZID-C</a></li>
-<li class="product"><a href="/p/zawory-regulacyjne/male-zawory-regulacyjne/trzpienie-iglice">Trzpienie (iglice)</a></li>
-<li class="product"><a href="/p/zawory-regulacyjne/male-zawory-regulacyjne/zawor-regulacyjny-rc-200">Zawór regulacyjny RC 200</a></li>
-<li class="product"><a href="/p/zawory-regulacyjne/male-zawory-regulacyjne/zawor-regulacyjny-rc-210">Zawór regulacyjny RC 210</a></li>
-<li class="product"><a href="/p/zawory-regulacyjne/male-zawory-regulacyjne/zawor-katowy-rc-220">Zawór kątowy RC 220</a></li>
-<li class="product"><a href="/p/zawory-regulacyjne/male-zawory-regulacyjne/zawor-3-drogowy-rc-230">Zawór 3-drogowy RC 230</a></li>
-<li class="product"><a href="/p/zawory-regulacyjne/male-zawory-regulacyjne/zawor-regulacyjny-rc-250">Zawór regulacyjny RC 250</a></li>
-<li class="product"><a href="/p/zawory-regulacyjne/male-zawory-regulacyjne/zawor-regulacyjny-lub-katowy-rc-240">Zawór regulacyjny lub kątowy RC 240</a></li>
-</ul>
-</div>
 <li class="category"><a href="/p/zawory-regulacyjne/zawory-procesowe">Zawory procesowe</a></li>
 <li class="category"><a href="/p/zawory-regulacyjne/zawory-w-wykonaniu-higienicznym">Zawory w wykonaniu higienicznym</a></li>
 </ul>
 <h3>API Industry</h3>
 <ul class="subcategories">
 <li class="category"><a href="/p/api-industry/czujniki-przemyslowe">Czujniki przemysłowe</a></li>
+<div class="light-widget">
+<ul class="products">
+<li class="product"><a href="/p/api-industry/czujniki-przemyslowe/uts-ultradzwiekowy-sygnalizator-poziomu">UTS™ - Ultradźwiękowy sygnalizator poziomu</a></li>
+<li class="product"><a href="/p/api-industry/czujniki-przemyslowe/tla-alarmowy-czujnik-poziomu">TLA™  - Alarmowy czujnik poziomu</a></li>
+<li class="product"><a href="/p/api-industry/czujniki-przemyslowe/tgd-czujnik-poziomu-cieczy-temperatury-cisnienia-i-gestosci">TGD™ - Czujnik poziomu cieczy, temperatury, ciśnienia i gęstości</a></li>
+<li class="product"><a href="/p/api-industry/czujniki-przemyslowe/tgd-l-pomiar-poziomu">TGD-L™ - Pomiar poziomu</a></li>
+<li class="product"><a href="/p/api-industry/czujniki-przemyslowe/tgd-t-pomiar-temperatury">TGD-T™ - Pomiar temperatury</a></li>
+<li class="product"><a href="/p/api-industry/czujniki-przemyslowe/tgd-s-pomiar-gestosci">TGD-S™ - Pomiar gęstości</a></li>
+<li class="product"><a href="/p/api-industry/czujniki-przemyslowe/upt-uniwersalny-przetwornik-cisnienia">UPT™ - Uniwersalny przetwornik ciśnienia</a></li>
+<li class="product"><a href="/p/api-industry/czujniki-przemyslowe/utt-uniwersalny-przetwornik-temperatury">UTT™ - Uniwersalny przetwornik temperatury</a></li>
+<li class="product"><a href="/p/api-industry/czujniki-przemyslowe/pi-485-przetwornik-hart-sup-sup">PI-485™ - Przetwornik HART<sup>®</sup></a></li>
 </ul>
 </div>
+</ul>
+</div>
+-->
 
       </div>
     </div>

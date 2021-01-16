@@ -45,35 +45,19 @@ permalink: /p/przeplywomierze/owalno-zebate/lm-og-i-lm-og-i-hf/
 <li class="category"><a href="/p/przeplywomierze/owalno-zebate">Owalno-zębate</a></li>
 <div class="light-widget">
 <ul class="products">
-<li class="product"><a href="/p/przeplywomierze/owalno-zebate/iog-sup-sup-low-flow">IOG<sup>®</sup> low flow</a></li>
-<li class="product"><a href="/p/przeplywomierze/owalno-zebate/iog-sup-sup">IOG<sup>®</sup></a></li>
-<li class="product"><a href="/p/przeplywomierze/owalno-zebate/lm-og">LM OG</a></li>
-<li class="product"><a href="/p/przeplywomierze/owalno-zebate/lm-og-a">LM-OG-A</a></li>
-<li class="product"><a href="/p/przeplywomierze/owalno-zebate/lm-og-hf">LM-OG-HF</a></li>
-<li class="product"><a href="/p/przeplywomierze/owalno-zebate/lm-og-i-lm-og-i-hf">LM-OG-I/LM-OG-I HF</a></li>
-<li class="product"><a href="/p/przeplywomierze/owalno-zebate/lm-og-i-pvc">LM-OG-I-PVC</a></li>
-<li class="product"><a href="/p/przeplywomierze/owalno-zebate/lm-og-ti-pvc">LM-OG-TI-PVC</a></li>
-<li class="product"><a href="/p/przeplywomierze/owalno-zebate/lm-og-ti-lm-og-ti-hf">LM-OG-TI/LM-OG-TI-HF</a></li>
-<li class="product"><a href="/p/przeplywomierze/owalno-zebate/uh">UH</a></li>
+  <li class="product"><a href="/p/przeplywomierze/owalno-zebate/seria-OM-mala-pojemnosc">Seria OM mała pojemność</a></li>
+  <li class="product"><a href="/p/przeplywomierze/owalno-zebate/seria-OM-srednia-pojemnosc">Seria OM średnia pojemność</a></li>
+  <li class="product"><a href="/p/przeplywomierze/owalno-zebate/seria-OM-duza-pojemnosc">Seria OM duża pojemność</a></li>
+  <li class="product"><a href="/p/przeplywomierze/owalno-zebate/seria-OM-przeplywomierz-mechaniczny/">Seria OM przepływomierz mechaniczny</a></li>
+  <li class="product"><a href="/p/przeplywomierze/owalno-zebate/seria-OM-przeplywomierz-chemiczny/">Seria OM przepływomierz chemiczny</a></li>
+  <li class="product"><a href="/p/przeplywomierze/owalno-zebate/seria-EGM-przeplywomierz-elektroniczny/">Seria EGM przepływomierz elektroniczny</a></li>
+  <li class="product"><a href="/p/przeplywomierze/owalno-zebate/seria-D-przeplywomierz-do-oleju-napedowego/">Seria D przepływomierz do oleju napędowego</a></li>
+  <li class="product"><a href="/p/przeplywomierze/owalno-zebate/kompaktowy-kolektor-wtrysku-z-dodatkiem-do-bloku-AIM/">Kompaktowy kolektor wtrysku</a></li>
 </ul>
 </div>
 <li class="category"><a href="/p/przeplywomierze/nutacyjne-dyskowe">Nutacyjne-dyskowe</a></li>
 <li class="category"><a href="/p/przeplywomierze/ultradzwiekowe">Ultradźwiękowe</a></li>
 <li class="category"><a href="/p/przeplywomierze/wirnikowe">Wirnikowe</a></li>
-<li class="category"><a href="/p/przeplywomierze/wirowe">Wirowe</a></li>
-<li class="category"><a href="/p/przeplywomierze/o-zmiennym-przekroju">O zmiennym przekroju</a></li>
-<li class="category"><a href="/p/przeplywomierze/dla-hydrauliki-silowej">Dla hydrauliki siłowej</a></li>
-<li class="category"><a href="/p/przeplywomierze/zwezkowe-i-roznicowo-cisnieniowe">Zwężkowe i różnicowo-ciśnieniowe</a></li>
-</ul>
-<h3>Zawory regulacyjne</h3>
-<ul class="subcategories">
-<li class="category"><a href="/p/zawory-regulacyjne/male-zawory-regulacyjne">Małe zawory regulacyjne</a></li>
-<li class="category"><a href="/p/zawory-regulacyjne/zawory-procesowe">Zawory procesowe</a></li>
-<li class="category"><a href="/p/zawory-regulacyjne/zawory-w-wykonaniu-higienicznym">Zawory w wykonaniu higienicznym</a></li>
-</ul>
-<h3>API Industry</h3>
-<ul class="subcategories">
-<li class="category"><a href="/p/api-industry/czujniki-przemyslowe">Czujniki przemysłowe</a></li>
 </ul>
 </div>
 
