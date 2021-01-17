@@ -14,7 +14,8 @@ permalink: /kontakt
                   <h2 id="page-headline">Kontakt</h2>
                 </div>
                 <div class="blogpost-blog2">
-                  <p>Jeżeli są Państwo zainteresowani współpracą z nami, prosimy wypełnić i wysłać poniższy formularz lub skontaktować się telefonicznie.</p>
+                  <p>Jeżeli są Państwo zainteresowani współpracą z nami, prosimy o kontakt mailowy na adres <a href="mailto:biuro@czapko.pl">biuro@czapko.pl</a> bądź o kontakt telefoniczny.</p>
+                  <!--
                   <form accept-charset="UTF-8" action="/dziekujemy" class="simple_form new_inquiry" id="new_inquiry" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="E+shWGvCJWzfq0BIW5DMd5Wv099ItuzyQwmJn4C0EmE="></div>
 <ol class="forms">
 <li class="input email required"><label class="email required" for="inquiry_requester_email"><abbr title="required">*</abbr> Email kontaktowy</label><input class="string email required" id="inquiry_requester_email" maxlength="255" name="inquiry[requester_email]" required="required" size="50" type="email"></li>
@@ -24,6 +25,7 @@ permalink: /kontakt
 <input id="submit_inquiry" name="commit" type="submit" value="Wyślij" disabled='disabled'>
 </ol>
 </form>
+-->
 
                 </div>
               </div>
