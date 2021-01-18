@@ -14,7 +14,7 @@ permalink: /kontakt
                   <h2 id="page-headline">Kontakt</h2>
                 </div>
                 <div class="blogpost-blog2">
-                  <p>Jeżeli są Państwo zainteresowani współpracą z nami, prosimy o kontakt mailowy na adres <a href="mailto:biuro@czapko.pl">biuro@czapko.pl</a> bądź o kontakt telefoniczny.</p>
+                  <p>Jeżeli są Państwo zainteresowani współpracą z nami, prosimy o kontakt mailowy na adres <a href="mailto:kontakt@czapko.pl">kontakt@czapko.pl</a> bądź o kontakt telefoniczny.</p>
                   <!--
                   <form accept-charset="UTF-8" action="/dziekujemy" class="simple_form new_inquiry" id="new_inquiry" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="E+shWGvCJWzfq0BIW5DMd5Wv099ItuzyQwmJn4C0EmE="></div>
 <ol class="forms">
@@ -37,7 +37,7 @@ permalink: /kontakt
                 <li class="company-info-address">Korfantego 6, 44-193 Knurów</li>
 
                 <li class="company-info-phone">+48 793 391 435</li>
-                <li class="company-info-email"><a href="mailto:biuro@czapko.pl">biuro@czapko.pl</a></li>
+                <li class="company-info-email"><a href="mailto:kontakt@czapko.pl">kontakt@czapko.pl</a></li>
               </ul>            
               <div class="testi-container">
                 <div id="contact-map">
